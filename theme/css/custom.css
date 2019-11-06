@@ -4,6 +4,7 @@ body {
   font-weight: 400;
   font-family: "Open Sans", "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #222;
+  background: repeat url("/theme/images/notebook.jpg");
 }
 
 
@@ -26,13 +27,14 @@ body {
 
 .header-img {
     width: 70px;
-    border-radius: 50%;
+    border-radius: 5%;
     float: left;
     margin-right: 2rem;
 }
 
 .header-link {
-    font-weight: 600;
+    font-family: 'Caveat', cursive;
+    font-weight: normal;
     letter-spacing: .2rem;
     text-decoration: none;
     line-height: 6.5rem;
@@ -58,7 +60,6 @@ body {
     display: block;
     width: 100%;
     height: 6.5rem;
-    background: #fff;
     z-index: 99;
     border-top: 1px solid #eee;
     border-bottom: 1px solid #eee;

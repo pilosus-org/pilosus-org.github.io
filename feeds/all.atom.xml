@@ -1,3 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Полевой журнал Виталия С.</title><link href="https://notes.pilosus.org/" rel="alternate"></link><link href="https://notes.pilosus.org/feeds/all.atom.xml" rel="self"></link><id>https://notes.pilosus.org/</id><updated>2019-11-03T12:30:00+03:00</updated><entry><title>О блоге</title><link href="https://notes.pilosus.org/posts/2019/11/03/welcome/" rel="alternate"></link><published>2019-11-03T12:30:00+03:00</published><updated>2019-11-03T12:30:00+03:00</updated><author><name>Виталий Самигуллин</name></author><id>tag:notes.pilosus.org,2019-11-03:/posts/2019/11/03/welcome/</id><content type="html">&lt;p&gt;Тест&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Полевой журнал Виталия Самигуллина</title><link href="https://notes.pilosus.org/" rel="alternate"></link><link href="https://notes.pilosus.org/feeds/all.atom.xml" rel="self"></link><id>https://notes.pilosus.org/</id><updated>2100-01-01T00:00:00+03:00</updated><entry><title>О блоге</title><link href="https://notes.pilosus.org/posts/2100/01/01/intro/" rel="alternate"></link><published>2100-01-01T00:00:00+03:00</published><updated>2100-01-01T00:00:00+03:00</updated><author><name>Виталий Самигуллин</name></author><id>tag:notes.pilosus.org,2100-01-01:/posts/2100/01/01/intro/</id><content type="html">&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;Прохожiй, ты идешь, но
+Ляжешь такъ, как я!
+Присять и отдохни –
+На камнѣ у меня,
+Сорви былиночку и
+Вспомни о судьбъ, –
+Я дома!., Ты в гостяхъ –
+Подумай о себѣ!
+&lt;/pre&gt;&lt;/div&gt;
 </content><category term="Журнал"></category><category term="блог"></category></entry></feed>
