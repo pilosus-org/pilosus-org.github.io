@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://notes.pilosus.org/</loc>
-<lastmod>2019-11-08T08:46:49-00:00</lastmod>
+<lastmod>2019-11-08T08:48:07-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://notes.pilosus.org/archives.html</loc>
-<lastmod>2019-11-08T08:46:49-00:00</lastmod>
+<lastmod>2019-11-08T08:48:07-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://notes.pilosus.org/tags.html</loc>
-<lastmod>2019-11-08T08:46:49-00:00</lastmod>
+<lastmod>2019-11-08T08:48:07-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://notes.pilosus.org/categories.html</loc>
-<lastmod>2019-11-08T08:46:49-00:00</lastmod>
+<lastmod>2019-11-08T08:48:07-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -39,7 +39,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://notes.pilosus.org/posts/2019/11/08/ostorozhno-modern/</loc>
+<loc>https://notes.pilosus.org/posts/2019/11/08/art-nouveau-in-xxi-century/</loc>
 <lastmod>2019-11-08T08:41:00+03:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>1.0</priority>
