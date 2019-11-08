@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://notes.pilosus.org/</loc>
-<lastmod>2019-11-08T07:56:32-00:00</lastmod>
+<lastmod>2019-11-08T08:46:49-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://notes.pilosus.org/archives.html</loc>
-<lastmod>2019-11-08T07:56:32-00:00</lastmod>
+<lastmod>2019-11-08T08:46:49-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://notes.pilosus.org/tags.html</loc>
-<lastmod>2019-11-08T07:56:32-00:00</lastmod>
+<lastmod>2019-11-08T08:46:49-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://notes.pilosus.org/categories.html</loc>
-<lastmod>2019-11-08T07:56:32-00:00</lastmod>
+<lastmod>2019-11-08T08:46:49-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -36,6 +36,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <lastmod>2019-11-03T16:45:00+03:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.8</priority>
+</url>
+
+<url>
+<loc>https://notes.pilosus.org/posts/2019/11/08/ostorozhno-modern/</loc>
+<lastmod>2019-11-08T08:41:00+03:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1.0</priority>
 </url>
 
 <url>
@@ -54,14 +61,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://notes.pilosus.org/category/zhurnal/</loc>
-<lastmod>2019-11-08T07:30:00+02:30</lastmod>
+<lastmod>2019-11-08T08:41:00+02:30</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://notes.pilosus.org/tag/kultura/</loc>
-<lastmod>2019-11-08T07:30:00+02:30</lastmod>
+<lastmod>2019-11-08T08:41:00+02:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://notes.pilosus.org/tag/arkhitektura/</loc>
+<lastmod>2019-11-08T08:41:00+02:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://notes.pilosus.org/tag/modern/</loc>
+<lastmod>2019-11-08T08:41:00+02:30</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
