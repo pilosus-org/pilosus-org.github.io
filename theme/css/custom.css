@@ -217,6 +217,11 @@ a:hover {
     font-weight: 600;
 }
 
+.section > h2 {
+    font-size: 2.6rem;
+}
+
+
 
 /***********************/
 /*  Table of Contents  */
