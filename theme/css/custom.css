@@ -61,8 +61,8 @@ body {
     width: 100%;
     height: 6.5rem;
     z-index: 99;
-    border-top: 1px solid #eee;
-    border-bottom: 1px solid #eee;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
 }
 
 .navbar-spacer {
@@ -122,7 +122,7 @@ body {
 
 .post-entry, .page-entry {
     padding: 3rem 0;
-    border-bottom: 1px dotted #eee;
+    border-bottom: 1px dotted #ccc;
 }
 
 .post-title, .page-title {
