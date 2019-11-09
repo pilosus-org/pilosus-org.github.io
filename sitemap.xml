@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://notes.pilosus.org/</loc>
-<lastmod>2019-11-08T21:31:52-00:00</lastmod>
+<lastmod>2019-11-09T17:01:09-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://notes.pilosus.org/archives.html</loc>
-<lastmod>2019-11-08T21:31:52-00:00</lastmod>
+<lastmod>2019-11-09T17:01:09-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://notes.pilosus.org/tags.html</loc>
-<lastmod>2019-11-08T21:31:52-00:00</lastmod>
+<lastmod>2019-11-09T17:01:09-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://notes.pilosus.org/categories.html</loc>
-<lastmod>2019-11-08T21:31:52-00:00</lastmod>
+<lastmod>2019-11-09T17:01:09-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -36,6 +36,20 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <lastmod>2019-11-03T16:45:00+03:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.8</priority>
+</url>
+
+<url>
+<loc>https://notes.pilosus.org/pages/podpiska/</loc>
+<lastmod>2019-11-09T13:15:00+03:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.8</priority>
+</url>
+
+<url>
+<loc>https://notes.pilosus.org/posts/2019/11/09/all-the-same-across-the-country/</loc>
+<lastmod>2019-11-09T16:40:00+03:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1.0</priority>
 </url>
 
 <url>
@@ -82,14 +96,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://notes.pilosus.org/category/zhurnal/</loc>
-<lastmod>2019-11-08T20:32:00+02:30</lastmod>
+<lastmod>2019-11-09T16:40:00+02:30</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://notes.pilosus.org/tag/obshchestvo/</loc>
-<lastmod>2019-11-08T20:32:00+02:30</lastmod>
+<lastmod>2019-11-09T16:40:00+02:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://notes.pilosus.org/tag/kultura/</loc>
+<lastmod>2019-11-09T16:40:00+02:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://notes.pilosus.org/tag/gorod/</loc>
+<lastmod>2019-11-09T16:40:00+02:30</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -146,13 +174,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://notes.pilosus.org/tag/srednii-klass/</loc>
 <lastmod>2019-11-08T10:03:00+02:30</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://notes.pilosus.org/tag/kultura/</loc>
-<lastmod>2019-11-08T08:41:00+02:30</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>

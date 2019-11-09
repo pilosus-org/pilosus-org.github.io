@@ -261,3 +261,16 @@ a:hover {
     background-color: #eee;
     font-size: 1.2em;
 }
+
+
+/***********/
+/* iframe  */
+/***********/
+
+iframe.subscribe {
+    display: block;       /* iframes are inline by default */
+    border: none;         /* Reset default border */
+    width: 500px;
+    height: 500px;
+
+}
