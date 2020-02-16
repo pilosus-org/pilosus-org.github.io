@@ -1,5 +1,155 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Тетради Виталия Самигуллина</title><link href="https://notes.pilosus.org/" rel="alternate"></link><link href="https://notes.pilosus.org/feeds/all.atom.xml" rel="self"></link><id>https://notes.pilosus.org/</id><updated>2020-02-01T15:30:00+03:00</updated><entry><title>Мужчины, профессия, кризис среднего возраста и свобода воли</title><link href="https://notes.pilosus.org/posts/2020/02/01/free-will/" rel="alternate"></link><published>2020-02-01T15:30:00+03:00</published><updated>2020-02-01T15:30:00+03:00</updated><author><name>Виталий Самигуллин</name></author><id>tag:notes.pilosus.org,2020-02-01:/posts/2020/02/01/free-will/</id><summary type="html">&lt;p&gt;Это явление больше касается мужчин 25-35 лет. Заключается оно примерно
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Тетради Виталия Самигуллина</title><link href="https://notes.pilosus.org/" rel="alternate"></link><link href="https://notes.pilosus.org/feeds/all.atom.xml" rel="self"></link><id>https://notes.pilosus.org/</id><updated>2020-02-16T12:00:00+03:00</updated><entry><title>Технологические войны: от Crypto AG до Google</title><link href="https://notes.pilosus.org/posts/2020/02/16/crypto-ag/" rel="alternate"></link><published>2020-02-16T12:00:00+03:00</published><updated>2020-02-16T12:00:00+03:00</updated><author><name>Виталий Самигуллин</name></author><id>tag:notes.pilosus.org,2020-02-16:/posts/2020/02/16/crypto-ag/</id><summary type="html">&lt;p&gt;Неделю назад широко обсуждалась статья в Washington Post о швейцарской
+компании &lt;a class="reference external" href="https://www.washingtonpost.com/graphics/2020/world/national-security/cia-crypto-encryption-machines-espionage/"&gt;Crypto &lt;span class="caps"&gt;AG&lt;/span&gt;&lt;/a&gt;, которую американские спецслужбы десятилетиями
+использовали как прокладку для своих понятных разведзадач не только в
+странах &lt;span class="caps"&gt;NATO&lt;/span&gt;, но и практически во всем мире, где нет своих школ
+криптографии. Я не понял, почему у этой статьи был такой
+резонанс …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Неделю назад широко обсуждалась статья в Washington Post о швейцарской
+компании &lt;a class="reference external" href="https://www.washingtonpost.com/graphics/2020/world/national-security/cia-crypto-encryption-machines-espionage/"&gt;Crypto &lt;span class="caps"&gt;AG&lt;/span&gt;&lt;/a&gt;, которую американские спецслужбы десятилетиями
+использовали как прокладку для своих понятных разведзадач не только в
+странах &lt;span class="caps"&gt;NATO&lt;/span&gt;, но и практически во всем мире, где нет своих школ
+криптографии. Я не понял, почему у этой статьи был такой
+резонанс. Возможно, у меня профдеформация на эту тему после 5 лет в
+университете по специальности infosec. В принципе, можно не владеть
+никаким математическим аппаратом в криптографии, а просто посмотреть,
+как эта область регулируется законодательно в США и в РФ: экспорт [1a]
+и импорт [1b] шифровальных средств, порядок сертификации софта и
+железа спецслужбами [1c]. Если этого будет недостаточно, то можно
+посмотреть историю блочных шифров &lt;a class="reference external" href="https://ru.wikipedia.org/wiki/ГОСТ_28147-89"&gt;ГОСТ 28147-89&lt;/a&gt;: как стандарт
+определяет блок подстановок (S-блоков), как Украина при Ющенко
+почему-то внезапно захотела сменить свой блок подстановок, как
+Международная организация по стандартизации обсуждала включение нашего
+ГОСТа в стандарт по блочным шифрам &lt;span class="caps"&gt;ISO&lt;/span&gt;/&lt;span class="caps"&gt;IEC&lt;/span&gt; 18033-3, но в итоге его
+отклонила. В общем, все лежит на поверхности, никакой тайны тут&amp;nbsp;нет.&lt;/p&gt;
+&lt;p&gt;Когда какие-то допотопные шифровальные машинки с начинкой от No Such
+Agency становятся ненужны, про них можно даже рассказать. Тем более,
+когда в каждом кармане лежит если не айфон от Apple, то андроид от
+Google, а на столе стоит компьютер с железом Intel, &lt;span class="caps"&gt;AMD&lt;/span&gt; или еще
+какой-то очень хорошей компании. Ну и общается с другими компьютерами
+с помощь коммуникационного оборудования Cisco. Тоже ведь прекрасная
+американская компания. Вам в любой статье на Хабре подтвердят, когда
+будут смеяться над ценами, производительностью процессора &lt;a class="reference external" href="https://habr.com/ru/news/t/465219/"&gt;Эльбрус&lt;/a&gt; и
+подозревать в коррупции, когда ключевая инфрастуктурная госкомпания
+закупает Эльбрусы за большие&amp;nbsp;деньги.&lt;/p&gt;
+&lt;p&gt;Но это я отвлекся. А хотел сказать простую вещь. Многие явления
+действительно лежат на поверхности. Например, мне очень понравилось,
+как государства и их говорящие головы от infosec провернули историю с
+двухфакторной аутентификацией. Это было блестяще. Ну вы помните, как
+все начиналось? In Soviэt Яussia &amp;#8220;режим&amp;#8221; заставил людей предъявлять
+паспорт для покупке &lt;span class="caps"&gt;SIM&lt;/span&gt;-карты. Потом, правда, внезапно такой же закон
+случился во многих странах &lt;span class="caps"&gt;EU&lt;/span&gt; и не только [2a]. И практически сразу за
+ним была спущена директива для двухфакторной аутентификации (&lt;span class="caps"&gt;2FA&lt;/span&gt;) в
+банковском секторе [2b]. Затем все крупные интернет-компании из любви
+к безопасности тихонечко внедрили &lt;span class="caps"&gt;2FA&lt;/span&gt;, хотя никто, абсолютно никто их
+к этому не обязывал. Словом, теперь стало настолько безопасно, что
+просто &amp;#8212; mein Gott, hilf mir, diese tödliche Liebe zu überleben!
+Раньше каждые полгода жили со скандалами о сливе хэшей засоленных
+&lt;a class="reference external" href="https://haveibeenpwned.com/PwnedWebsites"&gt;паролей&lt;/a&gt;. Теперь к ним добавится еще и номер телефона в виде
+открытого текста. Про безопасность &lt;span class="caps"&gt;2FA&lt;/span&gt; я вообще молчу. О фальшивых
+базовых станциях (они же &lt;span class="caps"&gt;IMSI&lt;/span&gt;-ловушки, или StingRay) много открытой
+информации в сети [2c]. Ну и СОРМ и его аналоги за рубежом тоже никто
+не отменял&amp;nbsp;[2d].&lt;/p&gt;
+&lt;p&gt;Дальше больше. Интернет стал настолько небезопасным, что отважные
+защитники прав человека из солнечной Калифорнии начали выражать
+обеспокоенность онлайн-трэкингом. Там кого ни возьми, любую НКО, всюду
+праздник и карнавал. Достаточно почитать про Electronic Frontier
+Foundation и миллионные пожертвования от Google и Facebook,
+проходивших как судебная практика &amp;#8220;cy pres&amp;#8221;, которая не считается
+пожертвованием и не требует отчетности [3a]. Так вот под эту дудочку
+все популярные браузеры (читай два браузера от Google и Apple) взяли
+под козырек и сначала ввели списки трэкеров third-party cookies,
+которые можно банить. А сейчас объявили, что в ближайших релизах
+планируют вообще избавить невинных пользователей от трэкинга &amp;#8212; и куки
+запретить, и заголовки User-agent выпилить [3b]. Это было
+самоотвержено! Но пользователь спасен, и это главное. Просто теперь
+его отслеживанием смогут заниматься две уважаемые компании, а не весь
+этот непонятный сброд, особенно из неуважаемых стран с
+недемократическими&amp;nbsp;режимами.&lt;/p&gt;
+&lt;p&gt;В общем, что у нас в сухом остатке? Картина маслом с красивым
+багетом. В 2011 году все банки мира, включая хваленые швейцарские
+банки с вековыми историями, берут под козырек и начинают работать &lt;a class="reference external" href="https://www.forbes.com/sites/irswatch/2014/02/03/swiss-bank-secrecy-succumbs-to-u-s-tax-enforcers/"&gt;The
+Department of Justice&lt;/a&gt; и The Internal Revenue Service США для
+противодействия неплательщикам налогов. Затем банки внезапно начинают
+переходить на двухфакторную аутентификацию пользователей. Американские
+технологические компании провязывают пользователей все той же
+двухфакторной аутентифакацией. Эти же компании сжирают местные рынки
+по всему Евросоюзу: в ЕС нет ни своих поисковых сервисов, ни
+социальных сетей, ничего. Эти же компании через организации и
+ассоциации за все демократическое, светлое и доброе радеют за
+безопасность пользователей и выдавливают с глобального рынка
+конкурентов по трэкингу пользователей, даже в тех странах, где
+&amp;#8220;кровавые&amp;#8221; недемократические режимы их не пустили&amp;nbsp;физически.&lt;/p&gt;
+&lt;p&gt;В общем, &amp;#8220;эта штука посильнее, чем Фауст Гёте&amp;#8221;, безусловно. Потому что
+реклама в соцсетях с курсами по гештальт психологии для будущих мам и
+идиотские баннеры со штанами для йоги это одно. А провязка всей &amp;#8212;
+даже не так, ВСЕЙ, &amp;#8212; вашей активности с банковской информацией &amp;#8212;
+кредитной историей, всеми покупками, &amp;#8212; поверх государственных границ,
+это совсем&amp;nbsp;другое.&lt;/p&gt;
+&lt;p&gt;Как хорошо, что это всего лишь глупая, ничем не подкрепленная&amp;nbsp;конспирология!&lt;/p&gt;
+&lt;div class="section" id="id1"&gt;
+&lt;h2&gt;Дополнительное&amp;nbsp;чтение&lt;/h2&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;Законы об средствах защиты&amp;nbsp;информации&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Запад и Восточный блок имеют свои криптографические школы, алгоритмы
+шифрования, стандарты. Экспорт и импорт криптографии в США и России
+регурируются со времен &lt;a class="reference external" href="https://en.wikipedia.org/wiki/Export_of_cryptography_from_the_United_States"&gt;Холодной войны&lt;/a&gt;. Регуляция с обеих сторон во
+многом похожа. Поэтому достаточно привести пару&amp;nbsp;примеров.&lt;/p&gt;
+&lt;p&gt;1a. Проще всего понять степень озабоченности вопросом экспорта
+криптографических средст из США на примере переписки представителей
+проекта Debian (один из самых популярных в мире дистрибутивов свободно
+распространяемой операционной системы &lt;span class="caps"&gt;GNU&lt;/span&gt;/Linux) с представителями
+Bureau of Export Administration (&lt;span class="caps"&gt;BAX&lt;/span&gt;, бюро при Департаменте торговли)
+о соответствии нормативному документу United States Export
+Administration Regulations (&lt;span class="caps"&gt;EAR&lt;/span&gt;). Статья и дискуссия под ней
+называется &lt;a class="reference external" href="https://www.debian.org/legal/cryptoinmain"&gt;Exploring Cryptographic Software in Debian&amp;#8217;s Main
+Archive&lt;/a&gt;. В ней простым языком (не канцеляритом) даются ответы на
+заданные вопросы о соблюдении правил &lt;span class="caps"&gt;EAR&lt;/span&gt;. Повторюсь, речь идет о самых
+базовых, недавно упрощенных правилах для open source
+проекта. Требования к проприетарным решениям намного&amp;nbsp;строже.&lt;/p&gt;
+&lt;p&gt;1b. В 2014 году на человека, заказавшего в интернете телефон Motorola,
+не продававшийся на территории РФ, возбудили административное дело за
+нарушение ввоза шифровальных средств. В статье &lt;a class="reference external" href="https://habr.com/ru/company/cisco/blog/234491/"&gt;Ввоз средств
+шифрования в Россию&lt;/a&gt; дается краткий обзор того, как регулируется
+импорт таких&amp;nbsp;средств.&lt;/p&gt;
+&lt;p&gt;1c. Государство, разумеется, должно защищать гостайну и обеспечить
+защиту информации в ключевых областях: госуправление,
+правоохранителные органы, правительственная связь, транспорт,
+электроснабжение, водоснабжение, добыча нефти и газа, навигация и так
+далее. Для этого силовые ведомства и специальная служба по
+техническому и экспортному контролю занимаются сертификацией софта и&amp;nbsp;железа.&lt;/p&gt;
+&lt;ol class="arabic simple" start="2"&gt;
+&lt;li&gt;Регистрация &lt;span class="caps"&gt;SIM&lt;/span&gt;-карт и двухфакторная&amp;nbsp;аутентификация&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;2a. В 2012 году Еврокомиссия поднимала вопрос об обязательной
+регистрации сим-карт. Однозначного решения принято не было, вместо
+этого проблема была отдана на откуп национальным правительствам. На
+сегодня значительная часть стран ЕС имеет обязательную регистрацию
+&lt;span class="caps"&gt;SIM&lt;/span&gt;-карт, кроме некоторых стран Скандинавии и Восточной
+Европы. Подробнее можно прочесть в статье &lt;a class="reference external" href="https://privacyinternational.org/long-read/3018/timeline-sim-card-registration-laws"&gt;Timeline of &lt;span class="caps"&gt;SIM&lt;/span&gt; Card
+Registration Laws&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;2b. С сентября 2019 года в ЕС вступила в силу директива &lt;span class="caps"&gt;PSD2&lt;/span&gt; о &lt;a class="reference external" href="https://en.wikipedia.org/wiki/Strong_customer_authentication"&gt;Strong
+customer authentication&lt;/a&gt; &amp;#8212; обязательной многофакторной
+аутентификации для платежных сервисов и банков. На практике обычно это
+обозначает двухфакторную аутентификацию с помощью пароля и &lt;span class="caps"&gt;TAN&lt;/span&gt; кода по
+номеру&amp;nbsp;телефона.&lt;/p&gt;
+&lt;p&gt;2c. Материалы на любой вкус: &lt;a class="reference external" href="https://www.eff.org/pages/cell-site-simulatorsimsi-catchers"&gt;Cell-Site Simulators&lt;/a&gt;, &lt;a class="reference external" href="https://en.wikipedia.org/wiki/Stingray_phone_tracker"&gt;Stingray phone
+tracker&lt;/a&gt;, &lt;a class="reference external" href="https://habr.com/ru/company/securitycode/blog/280886/"&gt;&lt;span class="caps"&gt;GSM&lt;/span&gt;-ловушки&lt;/a&gt;, &lt;a class="reference external" href="https://habr.com/ru/post/398893/"&gt;Базовую станцию &lt;span class="caps"&gt;GSM&lt;/span&gt; спрятали в офисном&amp;nbsp;принтере&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;2d. В 2016 году прошла серия взломов аккаунтов в мессенджере
+&lt;a class="reference external" href="https://habr.com/ru/post/396367/"&gt;Telegram&lt;/a&gt;, которые, вероятно, могли задействовать перехвад
+одноразовых паролей по &lt;span class="caps"&gt;SMS&lt;/span&gt;.&lt;/p&gt;
+&lt;ol class="arabic simple" start="3"&gt;
+&lt;li&gt;Интернет-гиганты&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;3a. Чудеснейшее расследование 2012 года &lt;a class="reference external" href="https://web.archive.org/web/20140226201712/http://tech.fortune.cnn.com/2012/07/30/google-and-facebooks-new-tactic-in-the-tech-wars/"&gt;Google and Facebook&amp;#8217;s new
+tactic in the tech wars&lt;/a&gt;. И отчего-то удалено с сайта &lt;span class="caps"&gt;CNN&lt;/span&gt;. Наверное,
+где-то натирало. Но WebArchive&amp;nbsp;помнит.&lt;/p&gt;
+&lt;p&gt;3b. Отказ от third-party cookies описан в блоге браузера Chromium
+&lt;a class="reference external" href="https://blog.chromium.org/2020/01/building-more-private-web-path-towards.html"&gt;Building a more private web&lt;/a&gt;. Планы по отказу от хэдера User-Agent
+обсуждаются в мейллисте разработчиков того же браузера в теме &lt;a class="reference external" href="https://groups.google.com/a/chromium.org/forum/#!topic/blink-dev/-2JIRNMWJ7s"&gt;Intent
+to Deprecate and Freeze&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+</content><category term="Журнал"></category><category term="софт"></category></entry><entry><title>Мужчины, профессия, кризис среднего возраста и свобода воли</title><link href="https://notes.pilosus.org/posts/2020/02/01/free-will/" rel="alternate"></link><published>2020-02-01T15:30:00+03:00</published><updated>2020-02-01T15:30:00+03:00</updated><author><name>Виталий Самигуллин</name></author><id>tag:notes.pilosus.org,2020-02-01:/posts/2020/02/01/free-will/</id><summary type="html">&lt;p&gt;Это явление больше касается мужчин 25-35 лет. Заключается оно примерно
 в следующем. Человек осознает, что он устал заниматься тем, чем
 занимается. Он считает, что его профессия &amp;#8212; унылая, неинтересная,
 пресная, бессмысленная чушь. Он начинает искать что-то еще. Меняет
