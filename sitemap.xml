@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://notes.pilosus.org/</loc>
-<lastmod>2020-09-13T22:22:38-00:00</lastmod>
+<lastmod>2020-09-13T23:44:22-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://notes.pilosus.org/archives.html</loc>
-<lastmod>2020-09-13T22:22:38-00:00</lastmod>
+<lastmod>2020-09-13T23:44:22-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://notes.pilosus.org/tags.html</loc>
-<lastmod>2020-09-13T22:22:38-00:00</lastmod>
+<lastmod>2020-09-13T23:44:22-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://notes.pilosus.org/categories.html</loc>
-<lastmod>2020-09-13T22:22:38-00:00</lastmod>
+<lastmod>2020-09-13T23:44:22-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -46,8 +46,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://notes.pilosus.org/posts/2020/09/13/molodi-2020/</loc>
+<lastmod>2020-09-13T23:42:00+03:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1.0</priority>
+</url>
+
+<url>
 <loc>https://notes.pilosus.org/posts/2020/09/13/pelevin-2019/</loc>
-<lastmod>2020-09-13T23:57:00+03:00</lastmod>
+<lastmod>2020-09-13T22:57:00+03:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>1.0</priority>
 </url>
@@ -208,14 +215,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://notes.pilosus.org/category/zhurnal/</loc>
-<lastmod>2020-09-13T23:57:00+02:30</lastmod>
+<lastmod>2020-09-13T23:42:00+02:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://notes.pilosus.org/tag/trip/</loc>
+<lastmod>2020-09-13T23:42:00+02:30</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://notes.pilosus.org/tag/pelevin/</loc>
-<lastmod>2020-09-13T23:57:00+02:30</lastmod>
+<lastmod>2020-09-13T22:57:00+02:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://notes.pilosus.org/tag/kniga/</loc>
+<lastmod>2020-09-13T22:57:00+02:30</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
