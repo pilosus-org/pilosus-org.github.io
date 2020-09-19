@@ -5,44 +5,51 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://notes.pilosus.org/</loc>
-<lastmod>2020-09-18T23:30:31-00:00</lastmod>
+<lastmod>2020-09-19T15:53:03-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://notes.pilosus.org/archives.html</loc>
-<lastmod>2020-09-18T23:30:31-00:00</lastmod>
+<lastmod>2020-09-19T15:53:03-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://notes.pilosus.org/tags.html</loc>
-<lastmod>2020-09-18T23:30:31-00:00</lastmod>
+<lastmod>2020-09-19T15:53:03-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://notes.pilosus.org/categories.html</loc>
-<lastmod>2020-09-18T23:30:31-00:00</lastmod>
+<lastmod>2020-09-19T15:53:03-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://notes.pilosus.org/pages/kontakty/</loc>
+<loc>https://notes.pilosus.org/pages/contacts/</loc>
 <lastmod>2019-11-03T16:45:00+03:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.8</priority>
 </url>
 
 <url>
-<loc>https://notes.pilosus.org/pages/podpiska/</loc>
+<loc>https://notes.pilosus.org/pages/subscribe/</loc>
 <lastmod>2019-11-09T13:15:00+03:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.8</priority>
+</url>
+
+<url>
+<loc>https://notes.pilosus.org/posts/2020/09/19/social-networks/</loc>
+<lastmod>2020-09-19T14:21:00+03:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1.0</priority>
 </url>
 
 <url>
@@ -222,14 +229,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://notes.pilosus.org/category/zhurnal/</loc>
-<lastmod>2020-09-18T23:21:00+02:30</lastmod>
+<lastmod>2020-09-19T14:21:00+02:30</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>https://notes.pilosus.org/tag/zdorove/</loc>
-<lastmod>2020-09-18T23:21:00+02:30</lastmod>
+<loc>https://notes.pilosus.org/tag/sotsseti/</loc>
+<lastmod>2020-09-19T14:21:00+02:30</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
