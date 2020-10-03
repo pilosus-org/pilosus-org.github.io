@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://notes.pilosus.org/</loc>
-<lastmod>2020-10-03T12:38:04-00:00</lastmod>
+<lastmod>2020-10-03T12:39:36-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://notes.pilosus.org/archives.html</loc>
-<lastmod>2020-10-03T12:38:04-00:00</lastmod>
+<lastmod>2020-10-03T12:39:36-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://notes.pilosus.org/tags.html</loc>
-<lastmod>2020-10-03T12:38:04-00:00</lastmod>
+<lastmod>2020-10-03T12:39:36-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://notes.pilosus.org/categories.html</loc>
-<lastmod>2020-10-03T12:38:04-00:00</lastmod>
+<lastmod>2020-10-03T12:39:36-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -47,7 +47,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://notes.pilosus.org/posts/2020/10/03/fuer-elise/</loc>
-<lastmod>2020-10-03T23:55:00+03:00</lastmod>
+<lastmod>2020-10-03T12:39:00+03:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>1.0</priority>
 </url>
@@ -236,14 +236,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://notes.pilosus.org/category/zhurnal/</loc>
-<lastmod>2020-10-03T23:55:00+02:30</lastmod>
+<lastmod>2020-10-03T12:39:00+02:30</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://notes.pilosus.org/tag/muzyka/</loc>
-<lastmod>2020-10-03T23:55:00+02:30</lastmod>
+<lastmod>2020-10-03T12:39:00+02:30</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
