@@ -1,5 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Тетради Виталия С.</title><link href="https://notes.pilosus.org/" rel="alternate"></link><link href="https://notes.pilosus.org/feeds/all.atom.xml" rel="self"></link><id>https://notes.pilosus.org/</id><updated>2020-11-28T18:14:00+03:00</updated><entry><title>Острова, еноты-полоскуны и кипящие чайники</title><link href="https://notes.pilosus.org/posts/2020/11/28/no-man-is-an-island/" rel="alternate"></link><published>2020-11-28T18:14:00+03:00</published><updated>2020-11-28T18:14:00+03:00</updated><author><name>Виталий С.</name></author><id>tag:notes.pilosus.org,2020-11-28:/posts/2020/11/28/no-man-is-an-island/</id><summary type="html">&lt;blockquote class="epigraph"&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Тетради Виталия С.</title><link href="https://notes.pilosus.org/" rel="alternate"></link><link href="https://notes.pilosus.org/feeds/all.atom.xml" rel="self"></link><id>https://notes.pilosus.org/</id><updated>2020-12-03T20:50:00+03:00</updated><entry><title>Регресс в прогрессьей шкуре</title><link href="https://notes.pilosus.org/posts/2020/12/03/regressive-development/" rel="alternate"></link><published>2020-12-03T09:34:00+03:00</published><updated>2020-12-03T20:50:00+03:00</updated><author><name>Виталий С.</name></author><id>tag:notes.pilosus.org,2020-12-03:/posts/2020/12/03/regressive-development/</id><summary type="html">&lt;p&gt;Почему недавно разлетевшийся по интернету ролик о &lt;a class="reference external" href="https://youtu.be/8HZ4DnVfWYQ"&gt;русской киберпанк
+ферме&lt;/a&gt; стал таким популярным? Потому что это не вполне
+киберпанк. Киберпанк антиутопичен, в нем маргиналы сражаются с
+&amp;#8220;матрицей&amp;#8221; в мрачных декорациях в духе города-крепости &lt;a class="reference external" href="https://www.youtube.com/watch?v=iFvUMaHrRI0"&gt;Коулун&lt;/a&gt;. В
+русской киберферме от киберпанка осталась только эстетика high
+tech/low life, но по сути это …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Почему недавно разлетевшийся по интернету ролик о &lt;a class="reference external" href="https://youtu.be/8HZ4DnVfWYQ"&gt;русской киберпанк
+ферме&lt;/a&gt; стал таким популярным? Потому что это не вполне
+киберпанк. Киберпанк антиутопичен, в нем маргиналы сражаются с
+&amp;#8220;матрицей&amp;#8221; в мрачных декорациях в духе города-крепости &lt;a class="reference external" href="https://www.youtube.com/watch?v=iFvUMaHrRI0"&gt;Коулун&lt;/a&gt;. В
+русской киберферме от киберпанка осталась только эстетика high
+tech/low life, но по сути это утопия научной фантастики,
+предшествующей киберпанку. На русской киберферме &amp;#8220;правительство на
+другой планете, родной&amp;#8221;. Государственная Почта России добирается до
+фермы два года. Фермеры &lt;strong&gt;автономны&lt;/strong&gt;. И это абсолютно противоречит
+тому тренду, который сегодня называют&amp;nbsp;прогрессом.&lt;/p&gt;
+&lt;p&gt;Создание нового само по себе и бесконечный информацинный шум вокруг не
+являются прогрессом. Прогресс это то, что освобождает
+человека. Прогресс это то, что делает его более независимым,
+свободным, оставляет ему больше времени на занятия более высокого
+порядка. Когда технология избавляет от посредника: от издателя &amp;#8212; в
+отношениях автора и читателя, от лейбла звукозаписи и дистрибьюции &amp;#8212;
+в отношениях музыканта и слушателя &amp;#8212; это прогресс. Когда технология
+позволяет экономить время на рутине: уборке дома, приготовлении еды,
+перемещении в пространстве &amp;#8212; это прогресс. Когда технология делает
+более независимым от других: &lt;span class="caps"&gt;GPS&lt;/span&gt; навигатор, автомобиль, доступные
+септик и электрогенератор на даче &amp;#8212; это прогресс. Когда технология
+защищает от манипуляций и насилия, в том числе государственного &amp;#8212; это&amp;nbsp;прогресс.&lt;/p&gt;
+&lt;p&gt;Но когда технология &lt;a class="reference external" href="https://sneak.berlin/20201112/your-computer-isnt-yours/"&gt;следит за вами&lt;/a&gt;, подвергает &lt;a class="reference external" href="https://www.nytimes.com/2009/07/18/technology/companies/18amazon.html"&gt;цензуре&lt;/a&gt;, делает
+&lt;a class="reference external" href="https://uxplanet.org/ux-infinite-scrolling-vs-pagination-1030d29376f1"&gt;зависимым&lt;/a&gt; &amp;#8212; это регресс. Когда технология развязывает руки
+манипуляции, насилию и &lt;a class="reference external" href="https://www.theguardian.com/world/2019/oct/10/hong-kong-protests-apple-pulls-tracking-app-after-china-criticism"&gt;государственным репрессиям&lt;/a&gt; &amp;#8212; это
+регресс. Когда технология превращает бытовой прибор в бесполезный
+&lt;a class="reference external" href="https://www.bbc.com/news/technology-55087054"&gt;металлолом&lt;/a&gt; из-за недоступности облачной платформы &amp;#8212; это
+регресс. Когда технология постоянно меняет интерфейсы, снижая вашу
+производительность &amp;#8212; это регресс. On and on &lt;a class="reference external" href="https://www.gnu.org/proprietary/proprietary.html"&gt;it goes&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Прогресс не обязательно несет благо всем сторонам. Скажем, элиминация
+посредников в музыкальной индустрии дала огромные возможности
+слушателям, снизила порог входа музыкантам, но практически уничтожило
+возможность зарабатывать на жизнь музыкой для большинства
+музыкантов. Прогресс не обязательно повышает уровень
+комфорта. Прогресс не всегда снижает стоимость. Но он всегда
+освобождает и позволяет стать лучше. Если ваш &amp;#8220;прогресс&amp;#8221; не такой, то
+пошел бы он к черту, этот ваш&amp;nbsp;&amp;#8220;прогресс&amp;#8221;.&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;P.S.&lt;/span&gt; Ричард Столлман прав во всем. Он &lt;a class="reference external" href="https://youtu.be/23FqhRLkO7o"&gt;святой&lt;/a&gt; и пророк. За это и
+пострадал. Но его скрижали по-прежнему &lt;a class="reference external" href="https://www.gnu.org/"&gt;доступны&lt;/a&gt; и должны читаться и&amp;nbsp;перечитываться.&lt;/p&gt;
+</content><category term="Журнал"></category><category term="технологии"></category></entry><entry><title>Острова, еноты-полоскуны и кипящие чайники</title><link href="https://notes.pilosus.org/posts/2020/11/28/no-man-is-an-island/" rel="alternate"></link><published>2020-11-28T18:14:00+03:00</published><updated>2020-11-28T18:14:00+03:00</updated><author><name>Виталий С.</name></author><id>tag:notes.pilosus.org,2020-11-28:/posts/2020/11/28/no-man-is-an-island/</id><summary type="html">&lt;blockquote class="epigraph"&gt;
 &lt;p&gt;No man is an island,
 Entire of itself;
 Every man is a piece of the continent,
