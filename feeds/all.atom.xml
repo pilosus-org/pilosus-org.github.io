@@ -1,5 +1,239 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>Тетради Виталия С.</title><link href="https://notes.pilosus.org/" rel="alternate"></link><link href="https://notes.pilosus.org/feeds/all.atom.xml" rel="self"></link><id>https://notes.pilosus.org/</id><updated>2020-12-12T17:50:00+03:00</updated><entry><title>Патти Смит и Аллен Гинзберг</title><link href="https://notes.pilosus.org/posts/2020/12/12/howl/" rel="alternate"></link><published>2020-12-12T17:50:00+03:00</published><updated>2020-12-12T17:50:00+03:00</updated><author><name>Виталий С.</name></author><id>tag:notes.pilosus.org,2020-12-12:/posts/2020/12/12/howl/</id><summary type="html">&lt;p&gt;Есть сезонное искусство: стихи, проза, музыка и проч., которые
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Тетради Виталия С.</title><link href="https://notes.pilosus.org/" rel="alternate"></link><link href="https://notes.pilosus.org/feeds/all.atom.xml" rel="self"></link><id>https://notes.pilosus.org/</id><updated>2020-12-13T01:44:00+03:00</updated><entry><title>Как я пользуюсь компьютером</title><link href="https://notes.pilosus.org/posts/2020/12/13/computing/" rel="alternate"></link><published>2020-12-13T01:44:00+03:00</published><updated>2020-12-13T01:44:00+03:00</updated><author><name>Виталий С.</name></author><id>tag:notes.pilosus.org,2020-12-13:/posts/2020/12/13/computing/</id><summary type="html">&lt;p&gt;Немного о том, какое оборудование и софт я использую в повседневной
+жизни сейчас и с чего все начиналось. Не уверен, что это кому-то
+особенно интересно. Но в качестве рефлексии эволюции собственных
+привычек, эта статья будет полезна прежде всего мне самому. Я бы хотел
+надеяться, что смогу обновлять эту статью хотя …&lt;/p&gt;</summary><content type="html">&lt;p&gt;Немного о том, какое оборудование и софт я использую в повседневной
+жизни сейчас и с чего все начиналось. Не уверен, что это кому-то
+особенно интересно. Но в качестве рефлексии эволюции собственных
+привычек, эта статья будет полезна прежде всего мне самому. Я бы хотел
+надеяться, что смогу обновлять эту статью хотя бы раз в пару-тройку&amp;nbsp;лет.&lt;/p&gt;
+&lt;div class="contents topic" id="id2"&gt;
+&lt;p class="topic-title"&gt;Содержание&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;a class="reference internal" href="#id3" id="id21"&gt;История&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference internal" href="#id4" id="id22"&gt;Железо&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference internal" href="#id5" id="id23"&gt;Операционная&amp;nbsp;система&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference internal" href="#id6" id="id24"&gt;Браузер&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference internal" href="#id7" id="id25"&gt;Терминал&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference internal" href="#id8" id="id26"&gt;Работа с&amp;nbsp;текстом&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference internal" href="#id9" id="id27"&gt;Коммуникации&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="reference internal" href="#id10" id="id28"&gt;Мейл-клиент&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference internal" href="#id11" id="id29"&gt;Мессенджеры&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference internal" href="#id12" id="id30"&gt;Новости&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference internal" href="#id14" id="id31"&gt;Что я хотел бы изменить?&lt;/a&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a class="reference internal" href="#id15" id="id32"&gt;Почта&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference internal" href="#dropbox" id="id33"&gt;Dropbox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference internal" href="#emacs-org-mode" id="id34"&gt;Emacs&amp;nbsp;org-mode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a class="reference internal" href="#id16" id="id35"&gt;Версионирование файлов&amp;nbsp;конфигураций&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="id3"&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id21"&gt;История&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Первый компьютер у нас появился, вероятно, в 1997 году. Это была
+машина на базе Intel Pentium 100 MHz, с 16 Mb &lt;span class="caps"&gt;RAM&lt;/span&gt;, видео-картой с
+поддержкой расширения 800x600 и глубиной цвета 16 бит, а также 14&amp;#8221; &lt;span class="caps"&gt;CRT&lt;/span&gt;
+монитором, механической клавиатурой и &amp;#8220;манипулятором типа мышь&amp;#8221; для
+порта &lt;span class="caps"&gt;PS&lt;/span&gt;/2 с шариком и ковриком. На машине были установлены
+операционная система &lt;span class="caps"&gt;MS&lt;/span&gt; Windows 95 и &lt;span class="caps"&gt;MS&lt;/span&gt;-&lt;span class="caps"&gt;DOS&lt;/span&gt;, файловый менеджер Norton
+Commander, компиляторы Turbo Pascal 7.0 и QuickBASIC 4.5. И конечно,
+джентельменский набор компьютерных игр: Duke Nukem 3D, Doom, Diablo,
+Need For Speed, а так же характерные для постсоветского пространства
+Поле чудес и&amp;nbsp;Балда.&lt;/p&gt;
+&lt;p&gt;Затем был, кажется, Pentium Pro 166 MHz или около того с Windows 98 на&amp;nbsp;борту.&lt;/p&gt;
+&lt;p&gt;Следующая машина появилась несколькими годами позднее, вероятно в
+2000-м. Это был Pentium &lt;span class="caps"&gt;III&lt;/span&gt; 866 MHz с 512 Mb &lt;span class="caps"&gt;RAM&lt;/span&gt;, аппаратным
+&lt;span class="caps"&gt;RAID&lt;/span&gt;-массивом, которые работали под управлением Windows 2000. Примерно
+годом позже появился dial-up модем ZyXEL Omni 56k &lt;span class="caps"&gt;PRO&lt;/span&gt; и выход в
+интернет по карте РОЛ-20 (Россия Онлайн 20 предоплаченных часов в
+дневное время). Если бы не эти машина и интернет-соединение, я сегодня
+вряд ли был бы таким, какой я&amp;nbsp;есть.&lt;/p&gt;
+&lt;p&gt;Еще через год впервые попробовал поработать с несколькими
+дистрибутивами &lt;span class="caps"&gt;GNU&lt;/span&gt;/Linux: Red Hat, Slackware, а затем и&amp;nbsp;FreeBSD.&lt;/p&gt;
+&lt;p&gt;С тех пор в моем парке машин были как &lt;span class="caps"&gt;PC&lt;/span&gt; под управлением Windows, так
+и Mac Pro и Macbook Pro. Кроме того, полностью отказался от
+desktop-машин в пользу laptop. Долгое время моей основной операционной
+системой был Arch Linux и некоторое время &amp;#8212; Gentoo&amp;nbsp;Linux.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="id4"&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id22"&gt;Железо&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Сейчас моя основная машина &amp;#8212; ThinkPad X1 Carbon. Я так же имею пару
+виртуальных серверов на CentOS и Debian для работы и учетную запись на
+NetBSD сервере в &lt;a class="reference external" href="https://sdf.org/"&gt;&lt;span class="caps"&gt;SDF&lt;/span&gt;&lt;/a&gt; &amp;#8212; для&amp;nbsp;души.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="id5"&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id23"&gt;Операционная&amp;nbsp;система&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Сегодня это Ubuntu Linux. Я думал, что хочу вернуться к Arch Linux. Но
+боюсь, что это заблуждение, которое разобьется о первую же
+необходимость провести полдня в поисках решения какой-нибудь нелепой
+проблемы вроде невозможности ввести машину в режим сна или перегрева
+процессора. У меня больше нет сил на оттачивание искусства ремонта
+мотоцикла в гараже после&amp;nbsp;работы.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="id6"&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id24"&gt;Браузер&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Mozilla Firefox &amp;#8212; мой основной браузер. По выходу из браузера я
+автоматически удаляю все сессионные куки. В самом браузере использую
+несколько профилей для разных целей. Пользуюсь плагинами блокировки
+рекламы и трэкеров &amp;#8212; UBlock Origin и несколькими плагинами от &lt;a class="reference external" href="https://www.eff.org/"&gt;&lt;span class="caps"&gt;EFF&lt;/span&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+Есть многое на свете, друг Горацио,
+Что запретят в Российской Федерации.&lt;/blockquote&gt;
+&lt;p&gt;Из-за того, что связность в моем прекрасном интернете прошлого топчут
+сапогом, приходится пользоваться &lt;span class="caps"&gt;VPN&lt;/span&gt;. Или делать форвардинг портов по
+ssh до одного из европейских&amp;nbsp;серверов.&lt;/p&gt;
+&lt;p&gt;В качестве поисковой машины я медленно, но верно привыкаю к
+&lt;a class="reference external" href="https://duckduckgo.com/"&gt;DuckDuckGo&lt;/a&gt;, как более безопасной альтернативе Google Search или&amp;nbsp;Yandex.&lt;/p&gt;
+&lt;p&gt;Я так же пользуюсь &lt;tt class="docutils literal"&gt;Tor Browser&lt;/tt&gt;, когда хочется почувствовать себя
+интернет-партизаном. И &lt;tt class="docutils literal"&gt;elinks&lt;/tt&gt;, когда нужно автоматизировать
+какую-то работу с приличным веб-сайтом, способным не сломаться без&amp;nbsp;JavaScript.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="id7"&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id25"&gt;Терминал&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;В 2008 году я прочел от корки до корки потрясающую книгу с невероятно
+идиотским названием &lt;a class="reference external" href="https://www.amazon.com/Sams-Teach-Yourself-Unix-Hours/dp/0672328143"&gt;Teach Yourself Unix in 24 Hours&lt;/a&gt; Дейва Тейлора,
+а затем его же книгу &lt;a class="reference external" href="https://www.amazon.com/Wicked-Cool-Shell-Scripts-2nd/dp/1593276028"&gt;Wicked Cool Shell Scripts&lt;/a&gt;. Мне кажется, что
+именно эти книги стали для меня отправной точкой для упорядочивания
+знаний о &lt;span class="caps"&gt;UNIX&lt;/span&gt;-образных операционных системах, показали, насколько это
+элегантная и продуктивная среда для человека, готового инвестировать
+немного времени в изучение инструментов командной строки. Если вы тот,
+кто сначала изучает инструкцию к прибору, а потом работает с ним, не
+зная проблем, то, вероятно, &lt;span class="caps"&gt;UNIX&lt;/span&gt; это для&amp;nbsp;вас.&lt;/p&gt;
+&lt;p&gt;Поэтому даже сегодня каждый сеанс моей работы за компьютером
+начинается с запуска терминала &lt;a class="reference external" href="https://terminator-gtk3.readthedocs.io/en/latest/"&gt;Terminator&lt;/a&gt; с несколькими активными
+табами. В качестве оболочки я использую Z shell (&lt;a class="reference external" href="https://www.zsh.org/"&gt;zsh&lt;/a&gt;) с набором
+скриптов и плагинов &lt;a class="reference external" href="https://ohmyz.sh/"&gt;oh my zsh&lt;/a&gt;. Однако я совсем не против &lt;tt class="docutils literal"&gt;bash&lt;/tt&gt; с
+&lt;tt class="docutils literal"&gt;&lt;span class="pre"&gt;bash-completion&lt;/span&gt;&lt;/tt&gt;, которые использую на своих виртуальных&amp;nbsp;серверах.&lt;/p&gt;
+&lt;p&gt;Не представляю себе повседневной работы с компьютером без &lt;span class="caps"&gt;GNU&lt;/span&gt; core
+utils, sed, awk и небольшой самописной коллекции bash-скриптов и
+aliases, накопленной за последние 10+ лет&amp;nbsp;работы.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="id8"&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id26"&gt;Работа с&amp;nbsp;текстом&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Самая важная функция, которую я выполняю на компьютере, &amp;#8212; это работа
+с текстами. Сюда относится любая работа с текстовой информацией:
+написать заметку в блог, программирование и иногда даже текст письма
+или более-менее длинного сообщения для&amp;nbsp;мессенджера.&lt;/p&gt;
+&lt;p&gt;Как прихожанин церкви &lt;a class="reference external" href="https://www.stallman.org/saint.html"&gt;Emacs&lt;/a&gt; c 2009 года, львиную долю текстов я
+пишу и редактирую именно в этом редакторе. В коммерческой разработке
+софта на Python или разработке на Java я пользуюсь &lt;span class="caps"&gt;IDE&lt;/span&gt; от JetBrains,
+но только с key bindings для Emacs. Разработку на функциональных
+языках программирования вроде Clojure или создание прототипов и
+pet projects с небольшой кодовой базой я так же веду в&amp;nbsp;Emacs.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="id9"&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id27"&gt;Коммуникации&lt;/a&gt;&lt;/h2&gt;
+&lt;div class="section" id="id10"&gt;
+&lt;h3&gt;&lt;a class="toc-backref" href="#id28"&gt;Мейл-клиент&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Я работал с консольными мейл клиентами mutt и mu4e. Вероятно, они
+хороши для участников мейлинглистов с текстовыми мейлами, но к
+сегодняшним реалиям электронной почты с &lt;span class="caps"&gt;HTML&lt;/span&gt;-версткой они не
+приспособлены&amp;nbsp;совсем.&lt;/p&gt;
+&lt;p&gt;Из почтовых клиентов с графическим интерфейсом мне подошел
+единственный &amp;#8212; Mozilla Thunderbird. Им я и пользуюсь каждый&amp;nbsp;день.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="id11"&gt;
+&lt;h3&gt;&lt;a class="toc-backref" href="#id29"&gt;Мессенджеры&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;После отказа от социальных сетей, единственным мессенджером, которым я
+продолжаю пользоваться на компьютере, стал Telegram. Был бы рад и
+вовсе отказаться от мессенджеров в пользу более асинхронной
+коммуникации, но боюсь, что сегодня это почти невозможный бунт против
+часовой&amp;nbsp;стрелки.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="id12"&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id30"&gt;Новости&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Я уже писал, что &lt;a class="reference external" href="https://notes.pilosus.org/posts/2020/04/02/news-consumption/"&gt;отказался от потребления новостей&lt;/a&gt;. Новости это или чья-то
+политическая агенда, или выбросы в атмосферу продуктов
+жизнедеятельности &lt;a class="reference external" href="http://paulgraham.com/submarine.html"&gt;&lt;span class="caps"&gt;PR&lt;/span&gt;-индустрии&lt;/a&gt;. Поэтому единственный тип
+&amp;#8220;новостей&amp;#8221;, который я потребляю &amp;#8212; &lt;span class="caps"&gt;RSS&lt;/span&gt; подписки на небольшое
+количество некоммерческих блогов с не более чем парой новых постов в&amp;nbsp;неделю.&lt;/p&gt;
+&lt;p&gt;Мне кажется, что нет ничего более удобного, чем &lt;span class="caps"&gt;RSS&lt;/span&gt;-подписки. Они
+менее инвазивные, чем мейл-рассылки или каналы в Telegram. Важно лишь
+исключить &lt;span class="caps"&gt;RSS&lt;/span&gt;-агрегаторы в духе Google Reader, которые составляют
+единую ленту новостей из всех ваших подписок. Смысл именно в
+возможности категоризировать подписки по темам и читать новость только
+в конкретном источнике или категории вместо бесконечной агрегации всех
+подписок. Так проще игнорировать те темы или блоги, которые не хочется
+читать именно сейчас. На мой взгляд идеальный &lt;span class="caps"&gt;RSS&lt;/span&gt; ридер, полностью
+удовлетворяющий этим условиям &amp;#8212; &lt;a class="reference external" href="https://quiterss.org/"&gt;QuiteRSS&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Кстати, мой блог тоже можно читать через &lt;a class="reference external" href="/feeds/all.atom.xml"&gt;&lt;span class="caps"&gt;RSS&lt;/span&gt;-фид&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="id14"&gt;
+&lt;h2&gt;&lt;a class="toc-backref" href="#id31"&gt;Что я хотел бы&amp;nbsp;изменить?&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;В целом я доволен тем, как организована моя работа за компьютером. И
+все же есть вещи, которые можно улучшить. Наверное, крупными мазками
+картину улучшений можно описать&amp;nbsp;так:&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;Мне хотелось бы лучше изучить некоторые инструменты, с которыми я
+работаю, но ленюсь потратить время на их тонкую настройку или изучение&amp;nbsp;функционала&lt;/li&gt;
+&lt;li&gt;Мне хотелось бы максимально &amp;#8220;импортозаместить&amp;#8221; все сервисы и
+продукты от корпоративных монстров, которые хотят знать обо мне
+больше, чем это требуется для наших&amp;nbsp;отношений&lt;/li&gt;
+&lt;li&gt;Мне хотелось бы сделать свою организацию компьютинга более
+автономной и доступной для быстрого развертывания даже в случае
+смены машины, рабочего&amp;nbsp;места&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Приведу пару примеров того, что я имею в&amp;nbsp;виду.&lt;/p&gt;
+&lt;div class="section" id="id15"&gt;
+&lt;h3&gt;&lt;a class="toc-backref" href="#id32"&gt;Почта&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Я пользуюсь почтой от Google, включая платный аккаунт Google
+Suite. Эта мера была вынужденной &amp;#8212; несколько лет назад работа со
+своим собственным мейл-сервером стала невозможной. Крупные публичные
+мейл-серверы вроде Google часто помечают почту с кастомных мейл
+серверов как спам &amp;#8212; по только им ведомым алгоритмам. И никакие
+тонкости настройки мейл сервера, &lt;span class="caps"&gt;SPF&lt;/span&gt;, &lt;span class="caps"&gt;DKIM&lt;/span&gt; и &lt;span class="caps"&gt;DMARC&lt;/span&gt; не смогут этому
+помешать. Чтобы угодить в черные списки Гугла, видимо, совсем не
+обязательно заниматься спамом. Достаточно рискнуть не пользоваться их&amp;nbsp;сервисами.&lt;/p&gt;
+&lt;p&gt;Пожалуй, я был бы рад пользоваться готовым сервисом для электронной
+почты при условии, что сервис не занимается таким агрессивным сбором
+данных обо мне. Я был бы готов воспользоваться швейцарским ProtonMail
+или немецким Tutanota. Но они, как ты понимаешь, друг Горацио,
+запрещены решением &lt;a class="reference external" href="https://p.dw.com/p/3EsWD"&gt;Генпрокуратуры&lt;/a&gt; Российской&amp;nbsp;Федерации.&lt;/p&gt;
+&lt;p&gt;Но нужно еще поискать альтернативы. С хорошим спам-фильтром, конечно&amp;nbsp;же.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="dropbox"&gt;
+&lt;h3&gt;&lt;a class="toc-backref" href="#id33"&gt;Dropbox&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Мне нужна альтернатива Dropbox, Google Drive и тому подобным
+сервисам. Причем синхронизация разных устройств не так уж и
+важна. Важно само хранилище, удобный доступ к нему по сети и
+автономность. Рассматриваю вариант &lt;span class="caps"&gt;NAS&lt;/span&gt;-накопителя. В идеале было бы
+хорошо не зависеть от проприетарного программного обеспечения и всех
+этих бесконечных попыток одарить пользователя новым функционалом или
+дизайном и представлениями о правильных паттернах использования, о
+которых никто не спрашивал. Наверное, устройство на основе TrueNAS
+было бы идеальным решением. Но как и в случае с операционной системой,
+у меня больше нет сил держать мотоцикл ради его вечного
+ремонта. Хорошего готового решения я пока не нашел. Существующие или
+слишком шумные, или имеют неудачный софт, или ненадежные. Буду искать&amp;nbsp;дальше.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="emacs-org-mode"&gt;
+&lt;h3&gt;&lt;a class="toc-backref" href="#id34"&gt;Emacs&amp;nbsp;org-mode&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;В 2009 году я пользовался &lt;a class="reference external" href="https://orgmode.org/"&gt;org-mode&lt;/a&gt; &amp;#8212; органайзером для текстового
+редактора Emacs. Но тогда это был порыв зилота, пользование ради
+пользования. Порыва хватило не надолго, а навых сошел на нет. Сейчас я
+знаю точно, для чего мне нужен такой органайзер, но не нахожу время,
+чтобы его изучить. Нужно это&amp;nbsp;поправить.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="id16"&gt;
+&lt;h3&gt;&lt;a class="toc-backref" href="#id35"&gt;Версионирование файлов&amp;nbsp;конфигураций&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Отдельные файлы конфигурации я уже храню в git-репозитории для
+поддержки версионирования. Например, конфигурацию &lt;a class="reference external" href="https://github.com/pilosus/emacs-for-clojure"&gt;emacs.d&lt;/a&gt;. Хочется
+сделать&amp;nbsp;следующее:&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;Приучиться хранить все файлы конфигурации для программ в специально
+выделенной директории с помощью переменной окружения
+&lt;tt class="docutils literal"&gt;XDG_CONFIG_HOME&lt;/tt&gt;&lt;/li&gt;
+&lt;li&gt;Версионировать эту&amp;nbsp;директорию&lt;/li&gt;
+&lt;li&gt;Использовать &lt;span class="caps"&gt;GNU&lt;/span&gt;/Stow для работы с символическими линками (&lt;a class="reference external" href="https://writingco.de/blog/how-i-manage-my-dotfiles-using-gnu-stow/"&gt;1&lt;/a&gt;, &lt;a class="reference external" href="http://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html"&gt;2&lt;/a&gt;, &lt;a class="reference external" href="https://github.com/dmgening/dotfiles"&gt;3&lt;/a&gt;)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</content><category term="Журнал"></category><category term="компьютер"></category></entry><entry><title>Патти Смит и Аллен Гинзберг</title><link href="https://notes.pilosus.org/posts/2020/12/12/howl/" rel="alternate"></link><published>2020-12-12T17:50:00+03:00</published><updated>2020-12-12T17:50:00+03:00</updated><author><name>Виталий С.</name></author><id>tag:notes.pilosus.org,2020-12-12:/posts/2020/12/12/howl/</id><summary type="html">&lt;p&gt;Есть сезонное искусство: стихи, проза, музыка и проч., которые
 актуальны в определенное время года. Аналогично, есть искусство места,
 которое актуально только в определенной геолокации и неинтересно в
 других местах. Примерно так я слушаю позднюю Патти Смит. Пару недель в
