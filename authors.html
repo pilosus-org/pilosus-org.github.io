@@ -51,20 +51,10 @@
 	</div>
       </nav>
 
-      <div class="search">
-        <form id="search-google" name="searchForm" action="https://google.com/search">
-          <div class="row">
-            <div class="ten columns">
-	      <input class="u-full-width" name="q" type="text" placeholder="Поисковая фраза..." maxlength="200" />
-	      <input name="q" type="hidden" value="site:https://notes.pilosus.org"/>
-            </div>
-            <div class="two columns">
-	      <input class="button u-full-width" name="submit" type="submit" value="Поиск" />
-            </div>
-          </div>
-        </form>
-      </div>
-      
+<!-- Goodbye Google. Hello DuckDuckGo. See https://duckduckgo.com/search_box -->
+<div class="search">
+  <iframe class="u-full-width" src="https://duckduckgo.com/search.html?site=https://notes.pilosus.org&prefill=Search DuckDuckGo&kp=-2&kae=c&kam=osm" style="overflow:hidden;margin:0;padding:0;height:40px;" frameborder="0"></iframe>
+</div>
       <div class="content">
 
 <section id="content" class="body">
