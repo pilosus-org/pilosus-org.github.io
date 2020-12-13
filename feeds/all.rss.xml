@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"><channel><title>Тетради Виталия С.</title><link>https://notes.pilosus.org/</link><description></description><lastBuildDate>Sun, 13 Dec 2020 01:44:00 +0300</lastBuildDate><item><title>Как я пользуюсь компьютером</title><link>https://notes.pilosus.org/posts/2020/12/13/computing/</link><description>&lt;p&gt;Немного о том, какое оборудование и софт я использую в повседневной
+жизни сейчас и с чего все начиналось. Не уверен, что это кому-то
+особенно интересно. Но в качестве рефлексии эволюции собственных
+привычек, эта статья будет полезна прежде всего мне самому. Я бы хотел
+надеяться, что смогу обновлять эту статью хотя …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Виталий С.</dc:creator><pubDate>Sun, 13 Dec 2020 01:44:00 +0300</pubDate><guid isPermaLink="false">tag:notes.pilosus.org,2020-12-13:/posts/2020/12/13/computing/</guid><category>Журнал</category><category>компьютер</category></item><item><title>Патти Смит и Аллен Гинзберг</title><link>https://notes.pilosus.org/posts/2020/12/12/howl/</link><description>&lt;p&gt;Есть сезонное искусство: стихи, проза, музыка и проч., которые
+актуальны в определенное время года. Аналогично, есть искусство места,
+которое актуально только в определенной геолокации и неинтересно в
+других местах. Примерно так я слушаю позднюю Патти Смит. Пару недель в
+году и исключительно зимой. Слушаю и, наверное, даже &lt;a class="reference external" href="https://youtu.be/EjA0rG2GPPc"&gt;больше
+смотрю&lt;/a&gt;. Это …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Виталий С.</dc:creator><pubDate>Sat, 12 Dec 2020 17:50:00 +0300</pubDate><guid isPermaLink="false">tag:notes.pilosus.org,2020-12-12:/posts/2020/12/12/howl/</guid><category>Журнал</category><category>музыка</category><category>контркультура</category></item><item><title>Регресс в прогрессьей шкуре</title><link>https://notes.pilosus.org/posts/2020/12/03/regressive-development/</link><description>&lt;p&gt;Почему недавно разлетевшийся по интернету ролик о &lt;a class="reference external" href="https://youtu.be/8HZ4DnVfWYQ"&gt;русской киберпанк
+ферме&lt;/a&gt; стал таким популярным? Потому что это не вполне
+киберпанк. Киберпанк антиутопичен, в нем маргиналы сражаются с
+&amp;#8220;матрицей&amp;#8221; в мрачных декорациях в духе города-крепости &lt;a class="reference external" href="https://www.youtube.com/watch?v=iFvUMaHrRI0"&gt;Коулун&lt;/a&gt;. В
+русской киберферме от киберпанка осталась только эстетика high
+tech/low life, но по сути это …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Виталий С.</dc:creator><pubDate>Thu, 03 Dec 2020 09:34:00 +0300</pubDate><guid isPermaLink="false">tag:notes.pilosus.org,2020-12-03:/posts/2020/12/03/regressive-development/</guid><category>Журнал</category><category>технологии</category></item><item><title>Острова, еноты-полоскуны и кипящие чайники</title><link>https://notes.pilosus.org/posts/2020/11/28/no-man-is-an-island/</link><description>&lt;blockquote class="epigraph"&gt;
+&lt;p&gt;No man is an island,
+Entire of itself;
+Every man is a piece of the continent,
+A part of the&amp;nbsp;main.&lt;/p&gt;
+&lt;p class="attribution"&gt;&amp;mdash;John&amp;nbsp;Donne&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Кажется, что поэты английского барокко все же ошибались. В лучшем
+случае, люди &amp;#8212; это островки-моту, окружающие давно потухший вулкан в
+центре лагуны. Где-то под водой эти коралловые острова …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Виталий С.</dc:creator><pubDate>Sat, 28 Nov 2020 18:14:00 +0300</pubDate><guid isPermaLink="false">tag:notes.pilosus.org,2020-11-28:/posts/2020/11/28/no-man-is-an-island/</guid><category>Журнал</category></item><item><title>Профессиональная версия</title><link>https://notes.pilosus.org/posts/2020/11/15/pro-version/</link><description>&lt;p&gt;На своей недавней пресс-конференции одна крупная
+технологически-фруктовая корпорация представила новую линейку
+ноутбуков с новым процессором. Будучи популярным брендом в среде
+профессиональных разработчиков софта, компания неприятно удивила эту
+часть своей аудитории &lt;a class="reference external" href="https://github.com/docker/for-mac/issues/4733"&gt;отсутствием поддержки виртуализации&lt;/a&gt; в новых
+чипах, необходимой для работы системы контейниризации&amp;nbsp;Docker.&lt;/p&gt;
+&lt;p&gt;Еще раз: ноутбук, позиционируемый как модель для профессионального …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Виталий С.</dc:creator><pubDate>Sun, 15 Nov 2020 23:40:00 +0300</pubDate><guid isPermaLink="false">tag:notes.pilosus.org,2020-11-15:/posts/2020/11/15/pro-version/</guid><category>Журнал</category><category>профессия</category><category>общество</category></item><item><title>Окрестности Стрёково и Степаново Дмитровского района Московской области (ноябрь 2020)</title><link>https://notes.pilosus.org/posts/2020/11/08/strekovo-2020/</link><description>&lt;p&gt;Небольшая прогулка в окрестностях деревень Стрёково и Степаново
+Дмитровского района, неподалеку от Яхромы. За пару-тройку дней прошли
+порядка 45 километров и, кажется, исчерпали весь прогулочный потенциал
+этих&amp;nbsp;мест.&lt;/p&gt;
+&lt;p&gt;В нашем плоском ландшафте ценен каждый холм. Для (горно-)лыжников
+тоже, поэтому нужно гулять до снежного сезона. Луга и поля проходимы,
+хотя …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Виталий С.</dc:creator><pubDate>Sun, 08 Nov 2020 13:18:00 +0300</pubDate><guid isPermaLink="false">tag:notes.pilosus.org,2020-11-08:/posts/2020/11/08/strekovo-2020/</guid><category>Журнал</category><category>trip</category></item><item><title>Прекрасное светлое будущее 4.0</title><link>https://notes.pilosus.org/posts/2020/10/18/digitalisierung/</link><description>&lt;p&gt;В &lt;a class="reference external" href="https://notes.pilosus.org/posts/2020/10/12/future/"&gt;прошлом посте&lt;/a&gt; среди прочего
+говорилось о том, что технологические революции с большими социальными
+последствиями обузыдываются проектом будущего для наиболее
+эффективного включения нового среднего класса в меняющийся
+мир. Практический вопрос следующий: предусматривает ли &lt;a class="reference external" href="https://en.wikipedia.org/wiki/Fourth_Industrial_Revolution"&gt;четвертая
+технологическая революция&lt;/a&gt; (Industrie 4.0, как говорят немцы) этот
+средний класс вообще? Уберем из понятия &amp;#8220;средний …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Виталий С.</dc:creator><pubDate>Sun, 18 Oct 2020 12:19:00 +0300</pubDate><guid isPermaLink="false">tag:notes.pilosus.org,2020-10-18:/posts/2020/10/18/digitalisierung/</guid><category>Журнал</category><category>общество</category></item><item><title>Проект будущего</title><link>https://notes.pilosus.org/posts/2020/10/12/future/</link><description>&lt;p&gt;Представьте, что в обществе появляется некоторая страта, класс или &amp;#8212;
+назовем нейтральнее, &amp;#8212; субпопуляция, которая: растет в размерах,
+начинает играть заметную роль в экономике, содержит в себе
+неразрешенный конфликт: происхождения, роста или отношения с нынешней
+господствующей субпопуляцией. Такая субпопуляция &amp;#8212; идеальный кандидат
+для построения новой общности, смены социальной парадигмы,
+перераспределения общественных благ на …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Виталий С.</dc:creator><pubDate>Mon, 12 Oct 2020 01:19:00 +0300</pubDate><guid isPermaLink="false">tag:notes.pilosus.org,2020-10-12:/posts/2020/10/12/future/</guid><category>Журнал</category><category>общество</category></item><item><title>Пеший поход платформа Востряково - станция Домодедово (04.10.2020)</title><link>https://notes.pilosus.org/posts/2020/10/04/vostryakovo-2020/</link><description>&lt;p&gt;Небольшой пеший поход от платформы Востряково вдоль реки Рожайки к
+станции Домодедово. До станции Востряково можно добраться с
+Павелецкого вокзала за 50 минут (направление&amp;nbsp;Кашира).&lt;/p&gt;
+&lt;p&gt;Дорогу от Востряково до реки Рожайка (первая треть маршрута) трудно
+назвать интересной: дачные поселки, промышленные объекты и пересечение
+автомобильной дороги. Аналогично с последней третью маршрута …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Виталий С.</dc:creator><pubDate>Sun, 04 Oct 2020 20:18:00 +0300</pubDate><guid isPermaLink="false">tag:notes.pilosus.org,2020-10-04:/posts/2020/10/04/vostryakovo-2020/</guid><category>Журнал</category><category>trip</category></item><item><title>Человек-нос</title><link>https://notes.pilosus.org/posts/2020/10/03/nose/</link><description>&lt;p&gt;В недавней публичной &lt;a class="reference external" href="https://youtu.be/L5fd-ExFj9A"&gt;лекции&lt;/a&gt; об эволюции сюжетов в литературе
+Дмитрий Быков поделился любопытным наблюдением. В &lt;span class="caps"&gt;XIX&lt;/span&gt; веке появляется
+новый тип сюжета, который Быков называет &amp;#8220;успешный
+двойник&amp;#8221;. Гоголевский &amp;#8220;Нос&amp;#8221; &amp;#8212; хороший пример произведения с этим
+типом сюжета. Главный герой коллежский асессор&amp;nbsp;Ковалев&lt;/p&gt;
+&lt;blockquote&gt;
+[&amp;#8230;] приехал в Петербург по надобности, а именно искать приличного
+своему …&lt;/blockquote&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Виталий С.</dc:creator><pubDate>Sat, 03 Oct 2020 17:50:00 +0300</pubDate><guid isPermaLink="false">tag:notes.pilosus.org,2020-10-03:/posts/2020/10/03/nose/</guid><category>Журнал</category><category>литература</category><category>общество</category></item><item><title>Элиза в снегах</title><link>https://notes.pilosus.org/posts/2020/10/03/fuer-elise/</link><description>&lt;p&gt;Есть поступательное развитие, а есть развитие
+циклическое. Рациональный ум любит поступательное. Человеческому
+разуму приятно, когда есть предпосылки, целеполагание, тактика и
+стратегия и последовательное движение. Особенно когда разум соотносит
+историческое развитие с незначительной продолжительностью собственной
+жизни. Да, я искра в костре истории, но я часть этого неумолимого
+развития. И напротив, развитие …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Виталий С.</dc:creator><pubDate>Sat, 03 Oct 2020 12:39:00 +0300</pubDate><guid isPermaLink="false">tag:notes.pilosus.org,2020-10-03:/posts/2020/10/03/fuer-elise/</guid><category>Журнал</category><category>музыка</category></item><item><title>Социальные сети</title><link>https://notes.pilosus.org/posts/2020/09/19/social-networks/</link><description>&lt;p&gt;Существует немало аргументов против социальных сетей. Наверное,
+наиболее убедительно критику социальных медиа суммировал американский
+футуролог &lt;a class="reference external" href="https://www.channel4.com/news/jaron-lanier-interview-on-how-social-media-ruins-your-life"&gt;Джарон Ланье&lt;/a&gt;. Социальные сети создают зависимость у
+большого количества людей бихевиористкими методами. Каждый
+пользователь социальных медиа &amp;#8212; это голубь Скиннера, который получает
+мгновенную обратную связь на любое действие: награду в виде лайков и
+материалов, скроенных под …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Виталий С.</dc:creator><pubDate>Sat, 19 Sep 2020 14:21:00 +0300</pubDate><guid isPermaLink="false">tag:notes.pilosus.org,2020-09-19:/posts/2020/09/19/social-networks/</guid><category>Журнал</category><category>соцсети</category></item><item><title>Замедлить время</title><link>https://notes.pilosus.org/posts/2020/09/18/slow-down/</link><description>&lt;p&gt;Восприятие времени зависит от образа жизни. В том числе от способа
+потребления информации. С переходом к гиперинформационному обществу
+время ускорилось для всех. И все же его можно затормозить. Например,&amp;nbsp;так:&lt;/p&gt;
+&lt;ol class="arabic simple"&gt;
+&lt;li&gt;Вместо информационного фастфуда перейти на &amp;#8220;медленную информацию&amp;#8221; (книги &lt;a class="reference external" href="https://notes.pilosus.org/posts/2020/04/02/news-consumption/"&gt;вместо новостей&lt;/a&gt; и &lt;a class="reference external" href="https://notes.pilosus.org/posts/2020/09/19/social-networks/"&gt;социальных сетей&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Вместо поверхностного, но регулярного общения, найти собеседников …&lt;/li&gt;&lt;/ol&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Виталий С.</dc:creator><pubDate>Fri, 18 Sep 2020 23:21:00 +0300</pubDate><guid isPermaLink="false">tag:notes.pilosus.org,2020-09-18:/posts/2020/09/18/slow-down/</guid><category>Журнал</category><category>время</category></item><item><title>Пеший поход станция Львовская - платформа Молоди (13.09.2020)</title><link>https://notes.pilosus.org/posts/2020/09/13/molodi-2020/</link><description>&lt;p&gt;Несложный пешеходный маршрут от подмосковной станции Львовская к селу
+Молоди через окрестные леса и луга. До маршрута можно добраться на
+электропоезде по направлению города Чехова (44 минуты от Царицына).
+Общая протяженность маршрута порядка 20 километров. Плюс порядка 5
+километров на осмотр заброшенной усадьбы и церкви Воскресенья
+Христова. Маршрут маркированный. Но …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Виталий С.</dc:creator><pubDate>Sun, 13 Sep 2020 23:42:00 +0300</pubDate><guid isPermaLink="false">tag:notes.pilosus.org,2020-09-13:/posts/2020/09/13/molodi-2020/</guid><category>Журнал</category><category>trip</category></item><item><title>Искусство легких касаний</title><link>https://notes.pilosus.org/posts/2020/09/13/pelevin-2019/</link><description>&lt;p&gt;Прочел сборник Виктора Пелевина &amp;#8220;Искусство легких касаний&amp;#8221;. Через год
+после выхода. Чтобы пена сошла. Книга состоит из трех частей: повести
+&amp;#8220;Иакинф&amp;#8221;, собственно повести &amp;#8220;Искусство легких касаний&amp;#8221;, и небольшого
+рассказа &amp;#8220;Столыпин&amp;#8221;. Бутерброд писателя с контрактом: неплохая вещь,
+обернутая в две проходные. Поэтому скажу только про заглавное&amp;nbsp;произведение.&lt;/p&gt;
+&lt;p&gt;В основе сюжета детективный …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Виталий С.</dc:creator><pubDate>Sun, 13 Sep 2020 22:57:00 +0300</pubDate><guid isPermaLink="false">tag:notes.pilosus.org,2020-09-13:/posts/2020/09/13/pelevin-2019/</guid><category>Журнал</category><category>пелевин</category><category>книга</category></item><item><title>Control (2007)</title><link>https://notes.pilosus.org/posts/2020/09/12/control-2007/</link><description>&lt;p&gt;Посмотрел Control (2007). Как обычно, спустя десятилетие после того,
+как все посмотрели и обсудили. Это такое сито: плохое за десяток лет
+забудется и смотреть не придётся, хорошее прибавит в&amp;nbsp;выдержке.&lt;/p&gt;
+&lt;p&gt;Нельзя сказать, что это какой-то выдающийся художественный фильм. Но
+биографию Кёртиса показывает неплохо. Когда я, будучи студентом, читал
+историю Joy …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Виталий С.</dc:creator><pubDate>Sat, 12 Sep 2020 21:50:00 +0300</pubDate><guid isPermaLink="false">tag:notes.pilosus.org,2020-09-12:/posts/2020/09/12/control-2007/</guid><category>Журнал</category><category>музыка</category></item><item><title>Чувство дома и ценности</title><link>https://notes.pilosus.org/posts/2020/09/05/no-home/</link><description>&lt;p&gt;Когда-то мне казалось, что &amp;#8220;чувство дома&amp;#8221; связано или с владением этим
+самым домом, или с импринтингом детских лет. Конечно, если этот
+импринтинг в целом положительный. Поэтому эмиграция в другую страну
+или просто внутренняя миграция это чувство дома убивают. Как минимум
+до момента приобретения собственного жилья. Аналогично с чисто
+бытовыми атрибутами …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Виталий С.</dc:creator><pubDate>Sat, 05 Sep 2020 14:51:00 +0300</pubDate><guid isPermaLink="false">tag:notes.pilosus.org,2020-09-05:/posts/2020/09/05/no-home/</guid><category>Журнал</category><category>дом</category></item><item><title>The Social Distance - Waiting Room (Fugazi Cover)</title><link>https://notes.pilosus.org/posts/2020/05/16/fugazi-wainting-room-cover/</link><description>&lt;p&gt;Весь мир закрылся на карантин. Люди оказались заперты бессрочно в
+своих бетонных коробках. Мы с Женей К. решили, что это идеальное
+время, чтобы сделать какой-нибудь совместный музыкальный
+проект. Каждый запишет свою партию у себя дома, чтобы потом свети все
+дорожки&amp;nbsp;воедино.&lt;/p&gt;
+&lt;p&gt;Поскольку в 2005 году мы с Женей К. играли …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Виталий С.</dc:creator><pubDate>Sat, 16 May 2020 21:21:00 +0300</pubDate><guid isPermaLink="false">tag:notes.pilosus.org,2020-05-16:/posts/2020/05/16/fugazi-wainting-room-cover/</guid><category>Журнал</category><category>музыка</category><category>творчество</category><category>covid-19</category></item><item><title>Конец века</title><link>https://notes.pilosus.org/posts/2020/04/03/fin-de-siecle/</link><description>&lt;p&gt;Как понять, что очередной fin de siècle, &amp;#8220;конец века&amp;#8221; завершился? Вам
+хочется смеяться над его проявлениями. Возможно, сквозь слезы. Потому
+что они живы в памяти, вы им радовались еще вчера. А сегодня они &amp;#8212;
+часть далекого прошлого. Думаю, в 1914 году следующие строчки из
+романа &amp;#8220;Наоборот&amp;#8221; Гюисманса воспринимались именно&amp;nbsp;так:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[&amp;#8230;] В …&lt;/p&gt;&lt;/blockquote&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Виталий С.</dc:creator><pubDate>Fri, 03 Apr 2020 22:51:00 +0300</pubDate><guid isPermaLink="false">tag:notes.pilosus.org,2020-04-03:/posts/2020/04/03/fin-de-siecle/</guid><category>Журнал</category><category>covid-19</category></item><item><title>Потребление новостей</title><link>https://notes.pilosus.org/posts/2020/04/02/news-consumption/</link><description>&lt;p&gt;Фактически сегодня существует только два варианта взаимодействия людей
+с новостями: кто-то с ресурсами создает повестку, а другие подбирают
+новости под свой характер, убеждения, ценности. Пузырь, эхо-камера,
+называйте как угодно. Ну и есть ничтожный процент людей, которые умеют
+просеивать новостной поток для каких-то чаще тактических решений. Это
+все понятно. Хочу добавить …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Виталий С.</dc:creator><pubDate>Thu, 02 Apr 2020 18:37:00 +0300</pubDate><guid isPermaLink="false">tag:notes.pilosus.org,2020-04-02:/posts/2020/04/02/news-consumption/</guid><category>Журнал</category><category>covid-19</category><category>fake</category><category>news</category></item><item><title>Тезисы о пандемии</title><link>https://notes.pilosus.org/posts/2020/03/30/pandemic/</link><description>&lt;ol class="arabic simple"&gt;
+&lt;li&gt;Левые во всем мире видят в коронавирусе спасенье. От Жижека до The
+Guardian посыл примерно одинаковый: проклятый капитализм не может
+справиться с глобальным вызовом, поможет доброе мировое
+правительство, которое-то и научит всех &amp;#8220;глобальной
+кооперации&amp;#8221;. Забавно, как эти люди приободряются, когда государства
+получают особые полномочия в чрезвычайных ситуациях. Российских
+левых я …&lt;/li&gt;&lt;/ol&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Виталий С.</dc:creator><pubDate>Mon, 30 Mar 2020 18:00:00 +0300</pubDate><guid isPermaLink="false">tag:notes.pilosus.org,2020-03-30:/posts/2020/03/30/pandemic/</guid><category>Журнал</category><category>covid-19</category></item><item><title>Почему вы не будете работать удаленно</title><link>https://notes.pilosus.org/posts/2020/03/21/home-office/</link><description>&lt;p&gt;Пандемия &lt;span class="caps"&gt;COVID&lt;/span&gt;-19 заставляет все больше компаний отправлять
+сотрудников работать из дома. Энтузиасты пророчат прецедент, который в
+будущем позволит отказаться от офиса в пользу удаленной
+работы все большему количеству людей. Но этого не произойдет. И вот&amp;nbsp;почему.&lt;/p&gt;
+&lt;div class="section" id="id2"&gt;
+&lt;h2&gt;Личные&amp;nbsp;качества&lt;/h2&gt;
+&lt;p&gt;Не все люди приспособлены для удаленной работы. Иногда эту
+неприспособленность пытаются …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Виталий С.</dc:creator><pubDate>Sat, 21 Mar 2020 21:30:00 +0300</pubDate><guid isPermaLink="false">tag:notes.pilosus.org,2020-03-21:/posts/2020/03/21/home-office/</guid><category>Журнал</category><category>профессия</category></item><item><title>Гипер-производительные люди и закон Прайса</title><link>https://notes.pilosus.org/posts/2020/03/21/10x-engineer/</link><description>&lt;p&gt;Несколько лет назад в разработке софта была популярна идея &amp;#8220;10x
+engineer&amp;#8221;. Смысл понятия сводился к тому, что существуют
+гипер-продуктивные люди, которые успевают в 10 раз больше
+среднестатистического разработчика. Сегодня эту идею стыдливо смели
+под ковер, потому что есть в ней что-то дискриминирующее для
+заурядного&amp;nbsp;инженера.&lt;/p&gt;
+&lt;p&gt;Тему гипер-продуктивности изучают давно, примерно …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Виталий С.</dc:creator><pubDate>Sat, 21 Mar 2020 12:55:00 +0300</pubDate><guid isPermaLink="false">tag:notes.pilosus.org,2020-03-21:/posts/2020/03/21/10x-engineer/</guid><category>Журнал</category><category>софт</category></item><item><title>Главная проблема общения</title><link>https://notes.pilosus.org/posts/2020/03/21/most-important-communication-problem/</link><description>&lt;p&gt;Главная проблема общения состоит в том, что очень мало людей умеет
+включать установку &amp;#8220;мой собеседник может знать то, что мне было бы
+полезно&amp;#8221;. Иначе говоря, в среднем людям нет дела до других. Они друг
+другу не интересны. И это статистически оправдано. Потому что в в
+среднем то, что говорят другие …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Виталий С.</dc:creator><pubDate>Sat, 21 Mar 2020 12:52:00 +0300</pubDate><guid isPermaLink="false">tag:notes.pilosus.org,2020-03-21:/posts/2020/03/21/most-important-communication-problem/</guid><category>Журнал</category><category>коммуникация</category></item><item><title>Технологические войны: от Crypto AG до Google</title><link>https://notes.pilosus.org/posts/2020/02/16/crypto-ag/</link><description>&lt;p&gt;Неделю назад широко обсуждалась статья в Washington Post о швейцарской
+компании &lt;a class="reference external" href="https://www.washingtonpost.com/graphics/2020/world/national-security/cia-crypto-encryption-machines-espionage/"&gt;Crypto &lt;span class="caps"&gt;AG&lt;/span&gt;&lt;/a&gt;, которую американские спецслужбы десятилетиями
+использовали как прокладку для своих понятных разведзадач не только в
+странах &lt;span class="caps"&gt;NATO&lt;/span&gt;, но и практически во всем мире, где нет своих школ
+криптографии. Я не понял, почему у этой статьи был такой
+резонанс …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Виталий С.</dc:creator><pubDate>Sun, 16 Feb 2020 12:00:00 +0300</pubDate><guid isPermaLink="false">tag:notes.pilosus.org,2020-02-16:/posts/2020/02/16/crypto-ag/</guid><category>Журнал</category><category>софт</category></item><item><title>Мужчины, профессия, кризис среднего возраста и свобода воли</title><link>https://notes.pilosus.org/posts/2020/02/01/free-will/</link><description>&lt;p&gt;Это явление больше касается мужчин 25-35 лет. Заключается оно примерно
+в следующем. Человек осознает, что он устал заниматься тем, чем
+занимается. Он считает, что его профессия &amp;#8212; унылая, неинтересная,
+пресная, бессмысленная чушь. Он начинает искать что-то еще. Меняет
+сферу деятельности. Популярная психология (женская, кстати) в унисон
+твердит &amp;#8220;найди себя&amp;#8221; и прочую …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Виталий С.</dc:creator><pubDate>Sat, 01 Feb 2020 15:30:00 +0300</pubDate><guid isPermaLink="false">tag:notes.pilosus.org,2020-02-01:/posts/2020/02/01/free-will/</guid><category>Журнал</category><category>свобода воли</category><category>экзистенция</category><category>профессия</category></item><item><title>Индустрия разработки софта в грядущую декаду</title><link>https://notes.pilosus.org/posts/2019/12/31/software-industry-next-decade/</link><description>&lt;p&gt;Что будет с разработкой софта в следующую декаду? Трудно сказать
+точно, особенно по РФ. Например, при наступлении некоторых
+политических событий к середине декады на внутренний рынок могут
+прийти мировые гиганты. Будем вспоминать, как прежде Яндекс
+душили-душили настолько, что сегодня у него +30% рост акций за
+месяц. В этом случае разработка …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Виталий С.</dc:creator><pubDate>Tue, 31 Dec 2019 12:00:00 +0300</pubDate><guid isPermaLink="false">tag:notes.pilosus.org,2019-12-31:/posts/2019/12/31/software-industry-next-decade/</guid><category>Журнал</category><category>софт</category></item><item><title>Осторожно, модерн 2</title><link>https://notes.pilosus.org/posts/2019/11/21/modern-2/</link><description>&lt;p&gt;Я как-то приводил &lt;a class="reference external" href="https://notes.pilosus.org/posts/2019/11/08/art-nouveau-in-xxi-century/"&gt;цитату человека&lt;/a&gt;, выросшего в окружении архитектуры
+послепожарной Москвы, по поводу модерна &amp;#8212; всех этих доходных домов и
+купеческих особняков рубежа веков. Понятно, что его реакция тогда мало
+отличалась от нашей реакции сегодня по поводу современной&amp;nbsp;архитектуры.&lt;/p&gt;
+&lt;p&gt;Ампир послепожарной Москвы абсолютно соразмерен человеку и вообще
+самое гармоничное, что сегодня …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Виталий С.</dc:creator><pubDate>Thu, 21 Nov 2019 18:40:00 +0300</pubDate><guid isPermaLink="false">tag:notes.pilosus.org,2019-11-21:/posts/2019/11/21/modern-2/</guid><category>Журнал</category><category>культура</category><category>архитектура</category><category>модерн</category></item><item><title>Широк человек, но я бы расширил</title><link>https://notes.pilosus.org/posts/2019/11/17/mass-culture-and-identity/</link><description>&lt;p&gt;У современного человека много иллюзий. Но одна очень серьезная. Это
+иллюзия профессии. Люди принимают профессию за удачную форму, которую
+они могут наполнять содержанием все свою жизнь. Но проблема в том, что
+профессии в смысле слова der Beruf больше нет. В среднем по палате
+есть 8 часов кругов на воде в …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Виталий С.</dc:creator><pubDate>Sun, 17 Nov 2019 18:40:00 +0300</pubDate><guid isPermaLink="false">tag:notes.pilosus.org,2019-11-17:/posts/2019/11/17/mass-culture-and-identity/</guid><category>Журнал</category><category>культура</category><category>идентичность</category></item><item><title>Миф об одной шестой части суши</title><link>https://notes.pilosus.org/posts/2019/11/10/tiny-country-russia/</link><description>&lt;p&gt;Россию любят представлять огромной страной, 1/6 частью суши. В
+действительности обитаемая территория России это ее европейская часть,
+переходящая в узкую полоску вдоль южных границ по мере движения на
+восток. Две трети площади страны &amp;#8212; вечная мерзлота и суровый
+климат. Кроме того, глобальные процессы вымирания малых городов и
+роста крупных городских …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Виталий С.</dc:creator><pubDate>Sun, 10 Nov 2019 12:17:00 +0300</pubDate><guid isPermaLink="false">tag:notes.pilosus.org,2019-11-10:/posts/2019/11/10/tiny-country-russia/</guid><category>Журнал</category><category>общество</category><category>россия</category><category>lebensraum</category></item><item><title>Единый уклад на 10 000 километров</title><link>https://notes.pilosus.org/posts/2019/11/09/all-the-same-across-the-country/</link><description>&lt;p&gt;Человеку без опыта жизни в странах с развитым регионализмом, вероятно,
+написанное покажется непонятным, возмутительным, не имеющим ничего
+общего с действительностью. Но для людей с эмигрантским опытом в
+странах Северной, Центральной или Западной Европы, сказанное будет
+намного&amp;nbsp;яснее.&lt;/p&gt;
+&lt;p&gt;Тезис очень простой. Современная Россиия &amp;#8212; к сожалению,
+централизованная и удивительно маленькая страна, если …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Виталий С.</dc:creator><pubDate>Sat, 09 Nov 2019 16:00:00 +0300</pubDate><guid isPermaLink="false">tag:notes.pilosus.org,2019-11-09:/posts/2019/11/09/all-the-same-across-the-country/</guid><category>Журнал</category><category>общество</category><category>россия</category><category>европа</category><category>lebensraum</category></item><item><title>Квартирный вопрос: преступная теснота</title><link>https://notes.pilosus.org/posts/2019/11/08/housing-space/</link><description>&lt;p&gt;Мы живём в ужасной тесноте. При нашей плотности населения на
+квадратный километр, это преступная теснота. По статистике, средняя
+полезная площадь на человека по РФ составляет 25 квадратных метров, в
+Москве 22. Еще раз, 25 квадратов. Даже в Китае этот показатель чуть
+выше &amp;#8212; 27 квадратных&amp;nbsp;метров.&lt;/p&gt;
+&lt;p&gt;Средний показатель для Евросоюза почти …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Виталий С.</dc:creator><pubDate>Fri, 08 Nov 2019 20:30:00 +0300</pubDate><guid isPermaLink="false">tag:notes.pilosus.org,2019-11-08:/posts/2019/11/08/housing-space/</guid><category>Журнал</category><category>общество</category><category>россия</category><category>европа</category><category>lebensraum</category></item><item><title>Будущее спорта</title><link>https://notes.pilosus.org/posts/2019/11/08/hacking-sport/</link><description>&lt;p&gt;Сначала была история с канадцем, который победил в женской велогонке,
+в статусе &lt;a class="reference external" href="https://www.cyclingweekly.com/news/latest-news/rachel-mckinnon-becomes-first-transgender-woman-win-track-world-title-397473"&gt;женщины-трансгендера&lt;/a&gt;. Теперь &lt;a class="reference external" href="https://www.championat.com/other/article-3841753-kitajskih-legkoatletok-podozrevajut-v-tom-chto-oni---muzhchiny.html"&gt;китайцы&lt;/a&gt; делают ровно то
+же, что и белые западные люди. С той лишь разницей, что китайцы под
+это не подводят права меньшинств. Поэтому на фоне активной западной
+пропаганды получается крайне неуклюже. И вместо слез умиления и …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Виталий С.</dc:creator><pubDate>Fri, 08 Nov 2019 20:00:00 +0300</pubDate><guid isPermaLink="false">tag:notes.pilosus.org,2019-11-08:/posts/2019/11/08/hacking-sport/</guid><category>Журнал</category><category>общество</category><category>спорт</category><category>будущее</category></item><item><title>Конец среднего класса, или почему глобальных войн больше не будет</title><link>https://notes.pilosus.org/posts/2019/11/08/the-end-of-the-middle-class/</link><description>&lt;p&gt;При всех своих глупостях, мир в целом устроен довольно разумно и
+прагматично. История отмирания среднего класса и вместе с ним
+национальных государств это история прагматизма. Привилегии и права
+всегда даются за что-то, в обмен на что-то. Скажем, аристократия &amp;#8212;
+это изначально военное сословие. Да, с большими возможностями и
+богатствами, но и …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Виталий С.</dc:creator><pubDate>Fri, 08 Nov 2019 10:01:00 +0300</pubDate><guid isPermaLink="false">tag:notes.pilosus.org,2019-11-08:/posts/2019/11/08/the-end-of-the-middle-class/</guid><category>Журнал</category><category>общество</category><category>война</category><category>экономика</category><category>средний класс</category></item><item><title>Осторожно, модерн</title><link>https://notes.pilosus.org/posts/2019/11/08/art-nouveau-in-xxi-century/</link><description>&lt;p&gt;Князь Владимир Андреевич &lt;a class="reference external" href="https://ru.wikipedia.org/wiki/Долгоруков,_Владимир_Андреевич"&gt;Долгоруков&lt;/a&gt;, генерал-губернатор Москвы, писал&lt;sup&gt;1&lt;/sup&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+Безудержная предприимчивость подрядчиков и мастеров-каменщиков
+воздвигала в Москве все новые и новые так называемые доходные
+дома. Эти дома с &amp;#8220;барскими&amp;#8221; квартирами в пять-шесть комнат редко
+были в пять этажей. Строительство их концентрировалось
+преимущественно в Садовом кольце Москвы. Почти все эти дома
+представляют …&lt;/blockquote&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Виталий С.</dc:creator><pubDate>Fri, 08 Nov 2019 08:39:00 +0300</pubDate><guid isPermaLink="false">tag:notes.pilosus.org,2019-11-08:/posts/2019/11/08/art-nouveau-in-xxi-century/</guid><category>Журнал</category><category>культура</category><category>архитектура</category><category>модерн</category></item><item><title>Почему Земмельвайс и Флеминг повлияли на культуру больше, чем Декарт и Ницше</title><link>https://notes.pilosus.org/posts/2019/10/06/memento-mori-morality/</link><description>&lt;p&gt;В очередной раз гулял по иноверческому кладбищу. Октябрьская погода в
+Москве идеальна для таких прогулок. Старые кладбища, и тем более
+древние некрополи вроде Александро-Невской Лавры, очень ясно
+показывают, почему культура так сильно поменялась в &lt;span class="caps"&gt;XX&lt;/span&gt; веке. Когда
+идешь по Немецкому кладбищу, постоянно зацепляешь глазом: Кирочка 17
+лет, Артемка 1 год …&lt;/p&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Виталий С.</dc:creator><pubDate>Sun, 06 Oct 2019 19:10:00 +0300</pubDate><guid isPermaLink="false">tag:notes.pilosus.org,2019-10-06:/posts/2019/10/06/memento-mori-morality/</guid><category>Журнал</category><category>культура</category><category>memento mori</category><category>кладбище</category><category>Москва</category></item><item><title>После социальных сетей: назад в будущее</title><link>https://notes.pilosus.org/posts/2019/10/06/intro/</link><description>&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;Прохожiй, ты идешь, но
+Ляжешь такъ, как я!
+Присять и отдохни –
+На камнѣ у меня,
+Сорви былиночку и
+Вспомни о судьбѣ, –
+Я дома!., Ты в гостяхъ –
+Подумай о себѣ!
+&lt;/pre&gt;&lt;/div&gt;
+&lt;div class="section" id="id2"&gt;
+&lt;h2&gt;Почему?&lt;/h2&gt;
+&lt;p&gt;Социальные сети &amp;#8212; это теплая и уютная эхо-камера. В ней можно
+добиться такой концентрации интересных людей, которая практически
+недостижима в реальной …&lt;/p&gt;&lt;/div&gt;</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Виталий С.</dc:creator><pubDate>Sun, 06 Oct 2019 00:00:00 +0300</pubDate><guid isPermaLink="false">tag:notes.pilosus.org,2019-10-06:/posts/2019/10/06/intro/</guid><category>Журнал</category><category>блог</category></item></channel></rss>
