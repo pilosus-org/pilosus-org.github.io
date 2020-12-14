@@ -66,7 +66,17 @@
 
 <!-- Goodbye Google. Hello DuckDuckGo. See https://duckduckgo.com/search_box -->
 <div class="search">
-  <iframe class="u-full-width" src="https://duckduckgo.com/search.html?site=https://notes.pilosus.org&prefill=Search DuckDuckGo&kp=-2&kae=c&kam=osm" style="overflow:hidden;margin:0;padding:0;height:40px;" frameborder="0"></iframe>
+  <form id="search-duckduckgo" name="searchForm" action="https://duckduckgo.com/">
+    <div class="row">
+      <div class="ten columns">
+        <input class="u-full-width" name="q" type="text" placeholder="Поисковая фраза..." maxlength="200" />
+        <input name="q" type="hidden" value="site:https://notes.pilosus.org"/>
+      </div>
+      <div class="two columns">
+        <input class="button u-full-width" name="submit" type="submit" value="Поиск" />
+      </div>
+    </div>
+  </form>
 </div>
       <div class="content">
 <section id="content" class="body">
@@ -91,7 +101,7 @@
                 |
                 <span><a href="https://notes.pilosus.org/category/zhurnal/">Журнал</a></span>
 		|
-		<span class="word-count">слов: 1486</span>
+		<span class="word-count">слов: 1499</span>
 <br/><span>Тэги: <a href="https://notes.pilosus.org/tag/kompiuter/">компьютер</a> </span>                
               </div><!-- /.post-info -->      <p>Немного о том, какое оборудование и софт я использую в повседневной
 жизни сейчас и с чего все начиналось. Не уверен, что это кому-то
@@ -132,9 +142,10 @@
 операционная система <span class="caps">MS</span> Windows 95 и <span class="caps">MS</span>-<span class="caps">DOS</span>, файловый менеджер Norton
 Commander, компиляторы Turbo Pascal 7.0 и QuickBASIC 4.5. И конечно,
 джентельменский набор компьютерных игр: Duke Nukem 3D, Doom, Diablo,
-Need For Speed, а так же характерные для постсоветского пространства
-Поле чудес и&nbsp;Балда.</p>
-<p>Затем был, кажется, Pentium Pro 166 MHz или около того с Windows 98 на&nbsp;борту.</p>
+Need For Speed, F-22 Raptor, Mortal Kombat, а так же характерные для
+постсоветского пространства Поле чудес и&nbsp;Балда.</p>
+<p>Затем был, кажется, Pentium Pro 166 MHz или около того с Windows 98 на
+борту. Тогда же появился первый аппаратный графический ускоритель 3dfx&nbsp;Voodoo.</p>
 <p>Следующая машина появилась несколькими годами позднее, вероятно в
 2000-м. Это был Pentium <span class="caps">III</span> 866 MHz с 512 Mb <span class="caps">RAM</span>, аппаратным
 <span class="caps">RAID</span>-массивом, которые работали под управлением Windows 2000. Примерно
