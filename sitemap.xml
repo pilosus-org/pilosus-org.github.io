@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://notes.pilosus.org/</loc>
-<lastmod>2020-12-28T14:53:29-00:00</lastmod>
+<lastmod>2020-12-28T16:56:27-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://notes.pilosus.org/archives.html</loc>
-<lastmod>2020-12-28T14:53:29-00:00</lastmod>
+<lastmod>2020-12-28T16:56:27-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://notes.pilosus.org/tags.html</loc>
-<lastmod>2020-12-28T14:53:29-00:00</lastmod>
+<lastmod>2020-12-28T16:56:27-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://notes.pilosus.org/categories.html</loc>
-<lastmod>2020-12-28T14:53:29-00:00</lastmod>
+<lastmod>2020-12-28T16:56:27-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -43,6 +43,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <lastmod>2020-12-13T14:26:00+03:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.8</priority>
+</url>
+
+<url>
+<loc>https://notes.pilosus.org/posts/2020/12/28/golem/</loc>
+<lastmod>2020-12-28T16:55:00+03:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1.0</priority>
 </url>
 
 <url>
@@ -327,7 +334,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://notes.pilosus.org/category/zhurnal/</loc>
-<lastmod>2020-12-28T14:56:00+02:30</lastmod>
+<lastmod>2020-12-28T16:55:00+02:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://notes.pilosus.org/tag/literatura/</loc>
+<lastmod>2020-12-28T16:55:00+02:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://notes.pilosus.org/tag/modern/</loc>
+<lastmod>2020-12-28T16:55:00+02:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://notes.pilosus.org/tag/kultura/</loc>
+<lastmod>2020-12-28T16:55:00+02:30</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -391,13 +419,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://notes.pilosus.org/tag/trip/</loc>
 <lastmod>2020-11-08T13:18:00+02:30</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://notes.pilosus.org/tag/literatura/</loc>
-<lastmod>2020-10-03T17:50:00+02:30</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -487,21 +508,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://notes.pilosus.org/tag/kultura/</loc>
-<lastmod>2019-11-21T18:40:00+02:30</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>https://notes.pilosus.org/tag/arkhitektura/</loc>
-<lastmod>2019-11-21T18:40:00+02:30</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://notes.pilosus.org/tag/modern/</loc>
 <lastmod>2019-11-21T18:40:00+02:30</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
