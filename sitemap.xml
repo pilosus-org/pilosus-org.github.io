@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://notes.pilosus.org/</loc>
-<lastmod>2021-05-31T01:03:18-00:00</lastmod>
+<lastmod>2021-05-31T11:12:28-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://notes.pilosus.org/archives.html</loc>
-<lastmod>2021-05-31T01:03:18-00:00</lastmod>
+<lastmod>2021-05-31T11:12:28-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://notes.pilosus.org/tags.html</loc>
-<lastmod>2021-05-31T01:03:18-00:00</lastmod>
+<lastmod>2021-05-31T11:12:28-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://notes.pilosus.org/categories.html</loc>
-<lastmod>2021-05-31T01:03:18-00:00</lastmod>
+<lastmod>2021-05-31T11:12:28-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -43,6 +43,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <lastmod>2020-12-13T14:26:00+03:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.8</priority>
+</url>
+
+<url>
+<loc>https://notes.pilosus.org/posts/2021/05/31/kuk-karauk-2021/</loc>
+<lastmod>2021-05-31T10:31:00+03:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1.0</priority>
 </url>
 
 <url>
@@ -404,14 +411,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://notes.pilosus.org/category/zhurnal/</loc>
-<lastmod>2021-05-30T23:20:00+02:30</lastmod>
+<lastmod>2021-05-31T10:31:00+02:30</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://notes.pilosus.org/tag/trip/</loc>
-<lastmod>2021-05-30T23:20:00+02:30</lastmod>
+<lastmod>2021-05-31T10:31:00+02:30</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
