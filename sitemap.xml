@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://notes.pilosus.org/</loc>
-<lastmod>2021-06-05T12:10:42-00:00</lastmod>
+<lastmod>2021-06-06T12:57:15-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://notes.pilosus.org/archives.html</loc>
-<lastmod>2021-06-05T12:10:42-00:00</lastmod>
+<lastmod>2021-06-06T12:57:15-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://notes.pilosus.org/tags.html</loc>
-<lastmod>2021-06-05T12:10:42-00:00</lastmod>
+<lastmod>2021-06-06T12:57:15-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://notes.pilosus.org/categories.html</loc>
-<lastmod>2021-06-05T12:10:42-00:00</lastmod>
+<lastmod>2021-06-06T12:57:15-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -46,6 +46,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://notes.pilosus.org/posts/2021/06/06/bykovo-2021/</loc>
+<lastmod>2021-06-06T12:20:00+03:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1.0</priority>
+</url>
+
+<url>
 <loc>https://notes.pilosus.org/posts/2021/06/05/mass-market/</loc>
 <lastmod>2021-06-05T12:01:00+03:00</lastmod>
 <changefreq>weekly</changefreq>
@@ -62,6 +69,20 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://notes.pilosus.org/posts/2021/05/30/aktash-may-2021/</loc>
 <lastmod>2021-05-30T23:20:00+03:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1.0</priority>
+</url>
+
+<url>
+<loc>https://notes.pilosus.org/posts/2021/04/04/polenovo-2021/</loc>
+<lastmod>2021-04-04T22:20:00+03:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1.0</priority>
+</url>
+
+<url>
+<loc>https://notes.pilosus.org/posts/2021/03/28/zakharovo-2021/</loc>
+<lastmod>2021-03-28T22:20:00+03:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>1.0</priority>
 </url>
@@ -418,7 +439,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://notes.pilosus.org/category/zhurnal/</loc>
-<lastmod>2021-06-05T12:01:00+02:30</lastmod>
+<lastmod>2021-06-06T12:20:00+02:30</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://notes.pilosus.org/tag/trip/</loc>
+<lastmod>2021-06-06T12:20:00+02:30</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -426,13 +454,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://notes.pilosus.org/tag/obshchestvo/</loc>
 <lastmod>2021-06-05T12:01:00+02:30</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://notes.pilosus.org/tag/trip/</loc>
-<lastmod>2021-05-31T10:31:00+02:30</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
